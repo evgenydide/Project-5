@@ -1,0 +1,5982 @@
+COUNTY,STATE,counter_sum
+SUFFOLK,NY,7372
+5,AZ,5943
+Ocean,NJ,4937
+McCurtain,OK,4039
+Polk,FL,4010
+St. Louis,MN,3895
+MONROE,NY,3552
+ORANGE,NY,3519
+Volusia,FL,3402
+Riverside,CA,3274
+Atlantic,NJ,3237
+Smith,TX,3106
+RIVERSIDE,CA,3084
+Santa Rosa,FL,3020
+NASSAU,NY,2940
+ROCKLAND,NY,2854
+ERIE,NY,2849
+Rusk,TX,2793
+Pushmataha,OK,2788
+Upshur,TX,2717
+Lee,FL,2639
+49,ID,2620
+Laurens,GA,2578
+Mohave,AZ,2568
+Cherokee,TX,2545
+Levy,FL,2496
+QUEENS,NY,2480
+Adair,OK,2452
+Jasper,TX,2434
+Cass,TX,2417
+Highlands,FL,2353
+29,OR,2348
+Collier,FL,2289
+Charlotte,FL,2228
+Marion,FL,2226
+Cumberland,NJ,2188
+WESTCHESTER,NY,2178
+Mobile,AL,2144
+Cherokee,OK,2120
+RICHMOND,NY,2114
+Putnam,FL,2073
+Lincoln,NV,2037
+Harrison,TX,2028
+Latimer,OK,2023
+Anderson,TX,1988
+18,OR,1961
+Navarro,TX,1951
+Bowie,TX,1942
+Burlington,NJ,1909
+Pine,MN,1903
+Wood,TX,1893
+ST LAWRENCE,NY,1871
+RENSSELAER,NY,1869
+Richmond,NC,1868
+Camden,NJ,1863
+Rio Blanco,CO,1863
+Maricopa,AZ,1857
+ALBANY,NY,1847
+Bastrop,TX,1845
+KINGS,NY,1839
+DUTCHESS,NY,1836
+Sarasota,FL,1826
+89,SC,1803
+Elko,NV,1801
+ULSTER,NY,1781
+Suwannee,FL,1756
+Lake,FL,1746
+Newton,TX,1732
+Robeson,NC,1729
+Hidalgo,TX,1723
+33,OR,1723
+Alachua,FL,1708
+Walton,FL,1706
+Delaware,OK,1704
+Erath,TX,1697
+Crow Wing,MN,1672
+Laurens             ,GA,1668
+Lamar,MS,1661
+Citrus,FL,1653
+SARATOGA,NY,1653
+Morrison,MN,1632
+Baldwin,AL,1627
+Morris,NJ,1614
+Moffat,CO,1600
+Kanawha,WV,1592
+BRONX,NY,1591
+Pearl River,MS,1586
+17,OR,1585
+Brevard,FL,1585
+Spokane County,WA,1584
+Montgomery,TX,1566
+8,SC,1556
+Hunt,TX,1552
+Bay,FL,1541
+Moore,NC,1534
+Jefferson Davis,MS,1505
+Atascosa,TX,1493
+10,OR,1486
+Harnett,NC,1485
+FRESNO,CA,1472
+Red River,TX,1467
+Taylor,FL,1457
+Dodge,GA,1456
+Mesa,CO,1455
+Okeechobee,FL,1444
+JEFFERSON,NY,1436
+Bell,TX,1436
+Harrison,MS,1436
+Columbia,FL,1434
+Kaufman,TX,1428
+Flagler,FL,1426
+Clay,FL,1420
+Henderson,TX,1414
+Itasca,MN,1411
+Palo Pinto,TX,1408
+Sussex,NJ,1404
+Missoula,MT,1392
+20,OR,1386
+Gregg,TX,1386
+Titus,TX,1374
+Duval,FL,1371
+Panola,TX,1371
+Sequoyah,OK,1364
+Tyler,TX,1362
+Le Flore,OK,1355
+Pasco,FL,1350
+Hancock,MS,1347
+Beauregard,LA,1346
+Marion,MS,1339
+Ada,ID,1330
+Beltrami,MN,1322
+Cass,MN,1318
+ONONDAGA,NY,1312
+Middlesex,NJ,1311
+Polk,GA,1311
+White Pine,NV,1300
+Tooele,UT,1294
+Orange,FL,1291
+005,AZ,1288
+Jackson,FL,1288
+Hardin,TX,1287
+Tarrant,TX,1283
+Caldwell,NC,1280
+Hill,TX,1267
+Becker,MN,1267
+Kern,CA,1258
+San Juan,UT,1256
+Cooke,TX,1255
+ONEIDA,NY,1253
+Stevens County,WA,1252
+Lincoln,MS,1246
+Pittsburg,OK,1244
+MERCED,CA,1243
+Aitkin,MN,1238
+Perry,KY,1238
+NIAGARA,NY,1231
+Litchfield,CT,1223
+Angelina,TX,1221
+Clearwater,ID,1218
+CLINTON,NY,1206
+Scotland,NC,1205
+Jackson,MS,1204
+Wichita,TX,1198
+Wayne,WV,1197
+San Juan,NM,1195
+29,SC,1194
+Ware,GA,1189
+Marinette,WI,1187
+Escambia,FL,1181
+Washington,GA,1180
+Collin,TX,1176
+Jackson,OR,1176
+Telfair,GA,1170
+Starr,TX,1168
+Garfield,CO,1163
+Flathead,MT,1156
+Williamsburg,SC,1153
+Toombs,GA,1152
+Parker,TX,1151
+Dixie,FL,1147
+Pinal,AZ,1136
+Grimes,TX,1135
+SULLIVAN,NY,1132
+Miami Dade,FL,1128
+STEUBEN,NY,1128
+Leake,MS,1125
+San Diego,CA,1121
+Cochise,AZ,1117
+Hernando,FL,1106
+Lamar,TX,1103
+Bexar,TX,1097
+32,SC,1091
+Twiggs,GA,1091
+Osceola,FL,1089
+Talladega,AL,1089
+Marion,TX,1086
+Monmouth,NJ,1086
+Mingo,WV,1086
+Montague,TX,1086
+Decatur,GA,1083
+Clark,NV,1083
+Deschutes,OR,1078
+Wayne,GA,1076
+Nacogdoches,TX,1075
+BROOME,NY,1075
+Lassen,CA,1073
+Floyd,GA,1073
+BUTTE,CA,1068
+Taylor,TX,1058
+Emanuel,GA,1048
+Williamson,TX,1047
+Carlton,MN,1046
+Hillsborough,FL,1042
+McLennan,TX,1042
+Pike,KY,1039
+Somerset,NJ,1038
+Sherburne,MN,1035
+WASHINGTON,ME,1034
+Madison,FL,1033
+Coffee,GA,1032
+Mercer,WV,1032
+WARREN,NY,1028
+New Haven,CT,1027
+Hendry,FL,1019
+Iron,UT,1018
+Orangeburg,SC,1012
+CHAUTAUQUA,NY,1011
+Houston,TX,1011
+Coryell,TX,1010
+Kane,UT,1004
+38,SC,1001
+Amite,MS,1001
+MADERA,CA,1001
+Palm Beach,FL,1000
+Adams,WI,997
+Lowndes,GA,996
+Fannin,TX,995
+Okanogan County,WA,993
+Okaloosa,FL,987
+Washington,AL,986
+Clay,TX,985
+47,WA,981
+Pike,MS,977
+Freestone,TX,975
+Mitchell,GA,971
+Walker,AL,970
+WASHINGTON,NY,967
+Brooks,GA,966
+Warren,NJ,964
+Lincoln,WV,963
+Raleigh,WV,961
+Haralson,GA,957
+Bosque,TX,956
+Gloucester,NJ,956
+San Bernardino,CA,955
+Eddy,NM,954
+Berrien,GA,952
+5,OR,950
+049,ID,950
+OSWEGO,NY,946
+Frio,TX,945
+Washington,UT,945
+Brantley,GA,944
+Effingham,GA,939
+19,OR,938
+Nassau,FL,936
+Appling,GA,935
+Attala,MS,931
+12,OR,930
+Escambia,AL,928
+PENOBSCOT,ME,922
+7,AZ,922
+Bonner,ID,922
+Baker,FL,921
+PUTNAM,NY,920
+Cape May,NJ,918
+Logan,WV,917
+LOS ANGELES,CA,914
+14,SC,913
+Bulloch,GA,913
+El Dorado,CA,913
+Lowndes             ,GA,911
+Screven,GA,905
+Treutlen,GA,904
+Dallas,TX,904
+Brown,TX,904
+SAN DIEGO,CA,902
+McDowell,WV,902
+53,MT,900
+Chattooga,GA,899
+1,AZ,898
+GREENE,NY,898
+Wise,TX,895
+Washoe,NV,892
+Florence,SC,892
+27,SC,892
+Shasta,CA,891
+23,OR,890
+FRANKLIN,NY,889
+Glades,FL,889
+105,CA,888
+MB,AL,887
+UTAH,UT,883
+ONTARIO,NY,879
+CATTARAUGUS,NY,879
+Columbia,WI,877
+39,NM,872
+Burke,NC,870
+ESSEX,NY,868
+Polk,TX,868
+COLUMBIA,NY,868
+Montrose,CO,865
+Van Zandt,TX,863
+Tattnall,GA,863
+Sweetwater,WY,859
+63,MT,858
+Andrews,TX,855
+Young,TX,851
+Roseau,MN,851
+Rapides,LA,849
+Gillespie,TX,846
+Grayson,TX,841
+Kanabec,MN,840
+WAYNE,NY,840
+Harney,OR,839
+Hamilton,FL,836
+Floyd,KY,835
+Jeff Davis,GA,835
+Humboldt,NV,835
+AROOSTOOK,ME,832
+Dodge               ,GA,831
+Jones,MS,831
+Bartow              ,GA,830
+Catawba,NC,830
+BW,AL,828
+San Jacinto,TX,828
+Lake,OR,827
+Colleton,SC,825
+Bradford,FL,825
+Martin,FL,824
+Callahan,TX,824
+Aiken,SC,822
+Cherokee            ,GA,822
+PLACER,CA,822
+Bartow,GA,822
+Berkeley,SC,821
+Johnson,GA,818
+Denton,TX,817
+Hunterdon,NJ,816
+Lawrence,MS,814
+Douglas,OR,813
+Portage,WI,813
+Holmes,FL,812
+Cook,GA,811
+Columbus,NC,810
+Mille Lacs,MN,809
+NEW YORK,NY,809
+37,CA,809
+Liberty,GA,806
+SHASTA,CA,805
+Rio Arriba,NM,803
+Clay,KY,801
+St Johns,FL,801
+Camp,TX,800
+Tift,GA,799
+Tuolumne,CA,799
+Burke,GA,798
+Onslow,NC,798
+Burleson,TX,797
+Walker,TX,796
+Grady,GA,795
+Tangipahoa,LA,791
+2,SC,778
+Yavapai,AZ,777
+Knott,KY,777
+Waushara,WI,777
+Williamsburg County,SC,776
+25,AZ,775
+LIVINGSTON,NY,775
+Wheeler,GA,775
+Tom Green,TX,772
+Klickitat County,WA,772
+Oconto,WI,771
+Colquitt,GA,771
+Lee,NC,771
+EL DORADO,CA,771
+41,SC,771
+Josephine,OR,770
+Washington,FL,769
+Burnett,WI,767
+Ellis,TX,766
+Pulaski,GA,764
+Early,GA,763
+Howard,TX,763
+Covington,MS,761
+Wayne,MS,760
+Paulding,GA,760
+Wilcox,GA,759
+Holmes,MS,759
+Aroostook,ME,757
+Chaves,NM,756
+Jefferson,AL,756
+McIntosh,GA,754
+Boone,WV,753
+Juneau,WI,750
+Carroll,GA,749
+Anson,NC,747
+Iredell,NC,746
+George,MS,744
+Pierce,GA,744
+SAN BERNARDINO,CA,744
+Telfair             ,GA,742
+Cherokee,AL,742
+61,MT,741
+Jones,GA,740
+Bladen,NC,738
+Thomas,GA,737
+Union,NC,736
+Knox,KY,736
+Valley,ID,734
+Lane,OR,733
+Allen,LA,733
+Elmore,ID,732
+Emanuel             ,GA,731
+Worth,GA,731
+79,ID,731
+Penobscot,ME,730
+Forrest,MS,730
+17,AZ,728
+Copiah,MS,727
+Walker,GA,726
+Burke               ,GA,726
+Jefferson,GA,724
+Horry,SC,722
+St. Johns,FL,721
+037,CA,720
+Brunswick,NC,719
+Liberty             ,GA,717
+Aiken County,SC,717
+Orangeburg County,SC,717
+Marquette,WI,715
+Upson,GA,714
+Vernon,LA,714
+26,SC,714
+Oneida,WI,712
+Juab,UT,711
+Indian River,FL,707
+Camden,MO,706
+3,NM,706
+Benton,MN,705
+Ben Hill,GA,704
+Stanly,NC,703
+Haralson            ,GA,701
+Gilchrist,FL,701
+CHEMUNG,NY,701
+Wyoming,WV,701
+37,OR,701
+Hall,GA,700
+Twiggs              ,GA,698
+Chilton,AL,697
+Caldwell,TX,697
+Burnet,TX,695
+Cleveland,NC,695
+Chattooga           ,GA,695
+Decatur             ,GA,694
+McIntosh            ,GA,693
+Valencia,NM,691
+Prentiss,MS,691
+FULTON,NY,690
+Clearwater,MN,687
+Cabell,WV,686
+Hardee,FL,684
+Long,GA,681
+Lumpkin,GA,680
+Marshall,MS,680
+Bulloch             ,GA,680
+Idaho,ID,676
+SCHENECTADY,NY,676
+Limestone,TX,676
+17,CA,675
+BOX ELDER,UT,675
+Thurston County,WA,674
+Passaic,NJ,673
+Cleburne,AL,672
+Effingham           ,GA,672
+Brantley            ,GA,672
+Panola,MS,672
+Bacon,GA,671
+Wilson,TX,671
+Sauk,WI,671
+Malheur,OR,670
+Isanti,MN,669
+Crawford,GA,668
+Brazos,TX,668
+Chatham,NC,668
+Coweta              ,GA,666
+Magoffin,KY,665
+Lubbock,TX,665
+Perry,MS,664
+Campbell,WY,663
+SONOMA,CA,663
+Macon,AL,662
+35,OR,660
+Winston,MS,660
+93,CA,657
+Kootenai,ID,656
+Utah,UT,651
+Brooks              ,GA,650
+Sumter,GA,650
+Madison,MS,648
+6,OR,648
+Gordon              ,GA,647
+Coconino,AZ,646
+Buncombe,NC,646
+Coweta,GA,644
+Conecuh,AL,642
+TEHAMA,CA,641
+Hoke,NC,640
+Natrona,WY,639
+Lea,NM,636
+Appling             ,GA,636
+Waupaca,WI,636
+Travis,TX,636
+Gaines,TX,636
+Worth               ,GA,635
+Jim Wells,TX,635
+Washington,ME,634
+Bleckley,GA,634
+Butte,CA,633
+Douglas,WI,632
+18,SC,632
+Grand,UT,630
+Darlington,SC,629
+Washington,LA,626
+Atkinson,GA,624
+Hubbard,MN,622
+Fayette,WV,622
+Rutherford,NC,621
+Polk                ,GA,621
+Chesterfield,SC,620
+Mahnomen,MN,620
+Walthall,MS,619
+Candler,GA,619
+Camden              ,GA,617
+Berkeley County,SC,617
+Haskell,OK,615
+Treutlen            ,GA,614
+Medina,TX,613
+Victoria,TX,613
+Kittson,MN,613
+Alcorn,MS,612
+7,WA,612
+Wilkinson,GA,611
+Manatee,FL,611
+Montgomery,NC,609
+Wadena,MN,609
+Breathitt,KY,608
+Sabine,TX,608
+Monroe,GA,607
+Tishomingo,MS,607
+Camden,GA,606
+Gadsden,FL,605
+Sampson,NC,604
+Rowan,NC,600
+Clarendon,SC,599
+Crook,OR,599
+Surry,NC,599
+YORK,ME,599
+Jasper,MS,598
+017,OR,597
+Toombs              ,GA,597
+43,NM,597
+Wayne               ,GA,594
+Gulf,FL,593
+Walker              ,GA,592
+Guadalupe,TX,591
+Charlton,GA,591
+Autauga,AL,590
+JF,AL,588
+Scurry,TX,585
+Atoka,OK,585
+MENDOCINO,CA,583
+Floyd               ,GA,583
+Coffee              ,GA,583
+Bell,KY,582
+Wayne,NC,582
+Livingston,LA,580
+Stone,MS,580
+Irwin,GA,580
+61,OR,580
+Owyhee,ID,580
+DELAWARE,NY,580
+Lee,TX,579
+Madison,NC,578
+Siskiyou,CA,578
+Klamath,OR,578
+Lauderdale,AL,577
+Nevada,CA,574
+Gaston,NC,574
+Florence County,SC,574
+Lexington,SC,573
+St. Lucie,FL,570
+Seminole,GA,569
+Lafayette,FL,568
+Sumter,SC,566
+Jasper,SC,566
+Archer,TX,565
+Sabine,LA,565
+Montezuma,CO,565
+Butler,AL,564
+HUMBOLDT,CA,564
+Eagle,CO,564
+Jeff Davis          ,GA,564
+Tift                ,GA,563
+Pickens             ,GA,563
+Jenkins,GA,562
+Randolph,NC,562
+GENESEE,NY,562
+Marion,GA,561
+Greene,MS,560
+43,SC,560
+Anoka,MN,559
+123,MI,558
+McDuffie,GA,558
+Vilas,WI,558
+TG,AL,557
+28,SC,557
+Mason,WV,556
+15,SC,556
+Franklin,FL,554
+11,AZ,553
+Jones,TX,550
+Roosevelt,NM,549
+Forsyth,NC,544
+13,SC,544
+Berrien             ,GA,543
+Monroe,WI,542
+Marion,AL,542
+Henderson,NC,542
+Taylor,GA,541
+Screven             ,GA,541
+SAN LUIS OBISPO,CA,541
+Letcher,KY,541
+Colfax,NM,540
+22,SC,539
+Colleton County,SC,538
+Comanche,TX,536
+CHENANGO,NY,536
+Colquitt            ,GA,535
+Stokes,NC,534
+Turner,GA,531
+SUMMIT,UT,531
+Paulding            ,GA,530
+Jackson,WI,530
+Cherokee,GA,530
+Carter,KY,530
+63,CA,528
+Lee,GA,528
+Richmond,GA,528
+McDowell,NC,527
+35,ID,527
+Dade,GA,527
+Uintah,UT,526
+Calaveras,CA,526
+GRUNDY,TN,525
+Murray              ,GA,524
+Mayes,OK,523
+Coleman,TX,522
+093,CA,522
+Johnson             ,GA,522
+Charlton            ,GA,521
+ALLEGANY,NY,521
+Hamilton,TX,521
+16,SC,521
+Lanier,GA,519
+Meriwether,GA,518
+Cumberland,NC,518
+Evans,GA,517
+Millard,UT,517
+Shelby,AL,517
+PISCATAQUIS,ME,516
+38,WI,516
+Lewis and Clark,MT,515
+Elbert,GA,515
+Tattnall            ,GA,515
+Mitchell            ,GA,512
+Ware                ,GA,511
+Beaver,UT,511
+Crisp,GA,511
+Smith,MS,510
+CAYUGA,NY,510
+Pender,NC,510
+Guilford,NC,510
+Washburn,WI,509
+Catoosa,GA,508
+Fannin,GA,508
+Pima,AZ,507
+Lincoln,NC,507
+Tuscaloosa,AL,507
+Sawyer,WI,507
+San Augustine,TX,506
+Perry,AL,506
+Union,FL,506
+KENNEBEC,ME,505
+Wilkes,NC,504
+OTSEGO,NY,503
+WEAKLEY,TN,503
+Wheeler             ,GA,503
+Kershaw,SC,502
+Jefferson,FL,502
+Dade,FL,502
+Salem,NJ,501
+Houston,GA,500
+32,OR,500
+CLEARFIELD,PA,499
+Dade                ,GA,498
+DeKalb,AL,498
+Koochiching,MN,497
+Plymouth,MA,496
+Jones               ,GA,494
+Sedgwick,KS,491
+Thomas              ,GA,489
+Murray,GA,488
+IRON,UT,488
+CALAVERAS,CA,487
+St. Tammany,LA,487
+Newton,GA,486
+Benton,MS,486
+071,CA,485
+Kittitas County,WA,483
+65,OR,482
+Calhoun,FL,482
+22,OR,482
+CONTRA COSTA,CA,482
+Whitley,KY,481
+Tallahatchie,MS,481
+85,ID,481
+Tippah,MS,480
+Cherokee,NC,479
+89,MT,479
+Marshall,MN,479
+Hancock,GA,479
+Berkeley,WV,479
+Long                ,GA,479
+Lake of the Woods,MN,479
+Putnam,WV,477
+Jack,TX,476
+SCHOHARIE,NY,476
+Union,GA,474
+Cowlitz County,WA,474
+Lincoln,MT,473
+Bee,TX,473
+Hays,TX,472
+Hood,TX,472
+1,OR,470
+Fremont,CO,469
+Boundary,ID,469
+Glynn,GA,468
+Clay,WV,468
+Wilkinson           ,GA,467
+Houston             ,GA,465
+37,UT,465
+Morris,TX,464
+Talbot,GA,464
+Hampshire,WV,464
+Russell,AL,464
+Owsley,KY,463
+Harris,GA,462
+Laclede,MO,461
+Carroll,MS,461
+Clarendon County,SC,460
+Crawford            ,GA,460
+Sumter,FL,460
+Dougherty,GA,459
+Candler             ,GA,459
+Oglethorpe,GA,459
+Wheeler,TX,459
+Baldwin,GA,459
+Tallapoosa,AL,457
+TIOGA,NY,457
+71,CA,456
+Whitfield           ,GA,456
+Crisp               ,GA,455
+Sumter County,SC,455
+81,MT,455
+Todd,MN,454
+OXFORD,ME,454
+Clinch              ,GA,453
+Clinch,GA,452
+Newton,MS,451
+Jefferson           ,GA,450
+Santa Fe,NM,449
+WASHINGTON,UT,449
+39,OR,448
+LUZERNE,PA,447
+Randall,TX,447
+Richmond            ,GA,445
+69,OR,444
+Grady               ,GA,444
+San Miguel,NM,444
+3,AZ,444
+Powder River,MT,444
+Windham,CT,443
+MADISON,NY,442
+Taylor,WI,442
+Montgomery,GA,442
+Washington,TX,442
+24,SC,442
+Shawnee,KS,441
+Jefferson,CO,441
+Upson               ,GA,440
+Atkinson            ,GA,440
+Washington          ,GA,440
+Mecklenburg,NC,439
+Norfolk,MA,438
+Potter,TX,438
+SCHUYLKILL,PA,437
+Monroe,AL,437
+WK,AL,437
+Martin,KY,435
+Shoshone,ID,434
+HOT SPRING,AR,434
+Seminole,FL,434
+SACRAMENTO,CA,434
+30,OR,434
+Nash,NC,434
+063,CA,434
+Miller,GA,433
+Comal,TX,433
+SANTA CRUZ,CA,433
+Darlington County,SC,432
+Dallas,AL,432
+MONTEREY,CA,432
+Georgetown,SC,432
+Rankin,MS,432
+Monroe              ,GA,431
+Choctaw,AL,430
+SOMERSET,ME,429
+Cassia,ID,429
+Milam,TX,428
+Putnam,GA,428
+45,OK,428
+Mora,NM,427
+Catoosa             ,GA,427
+Rusk,WI,427
+Early               ,GA,427
+St Helena,LA,426
+Leslie,KY,426
+Simpson,MS,426
+Echols              ,GA,426
+Marathon,WI,424
+Ouachita,AR,423
+WAYNE,TN,423
+Stephens,TX,422
+Wilcox              ,GA,422
+Johnson,TX,421
+Eastland,TX,419
+111,MS,418
+25,SC,417
+Chatham,GA,416
+Madison,GA,415
+147,KY,415
+Pierce              ,GA,414
+Swisher,TX,414
+La Salle,TX,414
+Kendall,TX,412
+023,OR,412
+Marion              ,GA,411
+Uvalde,TX,411
+Lincoln,WI,410
+Washakie,WY,410
+Calhoun,AL,409
+Bleckley            ,GA,409
+Greenup,KY,409
+Shelby,TX,409
+Blanco,TX,408
+Davidson,NC,408
+York,ME,406
+Itawamba,MS,405
+St. Helena,LA,402
+Turner              ,GA,402
+Monongalia,WV,401
+Wilcox,AL,401
+Modoc,CA,399
+SISKIYOU,CA,399
+7,SC,398
+Charles,MD,398
+Lumpkin             ,GA,398
+Pend Oreille County,WA,397
+Warren,GA,396
+Whitfield,GA,396
+Miami-Dade,FL,395
+007,AZ,395
+Jasper,GA,395
+Spalding            ,GA,394
+Jasper County,SC,394
+Lincoln,NM,394
+Harlan,KY,393
+31,SC,393
+Clark County,WA,393
+Mason County,WA,392
+Rockingham,NC,392
+Troup,GA,391
+Carbon,WY,391
+Box Elder,UT,391
+Hopkins,TX,391
+Sanders,MT,391
+Jenkins             ,GA,390
+77,WA,390
+Blount,AL,390
+Ben Hill            ,GA,390
+Liberty,TX,389
+Socorro,NM,389
+Harrison,WV,388
+Placer,CA,388
+Yalobusha,MS,388
+Johnson,KY,388
+Hale,AL,387
+Johnston,NC,386
+LEWIS,NY,386
+Nolan,TX,386
+Broward,FL,386
+Hancock             ,GA,385
+EM,AL,385
+Alexander,NC,384
+039,OR,384
+Karnes,TX,383
+Stewart,GA,383
+Clarke,MS,383
+Neshoba,MS,382
+Chesterfield County,SC,382
+Macon,GA,382
+Kershaw County,SC,381
+Stephens,GA,380
+37,WA,380
+Middlesex,CT,380
+NEVADA,CA,380
+OUACHITA,AR,379
+TUOLUMNE,CA,379
+Gordon,GA,379
+Bayfield,WI,379
+Meriwether          ,GA,379
+Bibb,AL,378
+39,WI,377
+Greene,GA,377
+Somerset,ME,377
+40,SC,375
+SB,AL,374
+Wood,WI,374
+Natchitoches,LA,374
+Boise,ID,374
+Carroll             ,GA,374
+Hampden,MA,374
+Haywood,NC,373
+Nicholas,WV,373
+SALINE,AR,372
+19,AZ,372
+Pickens,GA,372
+Lander,NV,371
+Forsyth             ,GA,370
+Hall                ,GA,370
+Midland,TX,370
+Kemper,MS,370
+LAWRENCE,TN,370
+Trinity,TX,369
+Spalding,GA,368
+49,OR,368
+Jackson,KY,367
+35,SC,366
+Sumter              ,GA,366
+Claiborne,LA,366
+29,MT,366
+Colbert,AL,365
+Fannin              ,GA,365
+Hancock,ME,365
+49,CA,365
+HERKIMER,NY,365
+Bryan North,GA,364
+Lexington County,SC,364
+Currituck,NC,364
+Kerr,TX,364
+Grant,OR,364
+El Paso,CO,364
+KANE,UT,364
+43,WI,363
+Tolland,CT,363
+17,ID,363
+WALDO,ME,362
+Pulaski             ,GA,362
+Johnson,WY,362
+Henry,GA,361
+21,SC,360
+Bacon               ,GA,360
+Cook                ,GA,360
+Carbon,UT,360
+035,OR,359
+Etowah,AL,359
+103,SD,358
+Seminole            ,GA,358
+PEARL RIVER,MS,358
+YUBA,CA,357
+Evans               ,GA,357
+Cabarrus,NC,357
+Hot Spring,AR,356
+Jackson,NC,355
+MARION,TN,354
+15,ID,354
+CN,AL,354
+Spokane,WA,353
+Grant,NM,353
+Dillon,SC,353
+Fayette,TX,352
+Yadkin,NC,352
+1,WI,352
+Lee,KY,351
+Coosa,AL,350
+Rockcastle,KY,350
+Randolph,GA,350
+Abbeville,SC,348
+HANCOCK,ME,348
+Lee,SC,348
+Chambers,AL,347
+20,SC,347
+Benewah,ID,347
+Clay,AL,347
+4,OR,347
+Pueblo,CO,347
+Leon,FL,347
+Franklin,NC,347
+HARDIN,TN,346
+64,OK,346
+Irwin               ,GA,346
+Lowndes,AL,345
+Grant,AR,344
+Clarke,AL,344
+Miller,AR,344
+Kennebec,ME,344
+Donley,TX,343
+Eureka,NV,343
+Chelan County,WA,343
+Lewis County,WA,343
+Halifax,VA,343
+053,MT,343
+Henry               ,GA,342
+Fremont,WY,342
+Lake,MN,342
+Baker,GA,342
+Price,WI,342
+Live Oak,TX,341
+Langlade,WI,341
+UNION,AR,340
+Craven,NC,340
+Saline,AR,340
+MILLER,AR,340
+New London,CT,339
+Macon,NC,339
+Covington,AL,339
+Cumberland,ME,338
+Cullman,AL,337
+Echols,GA,336
+Wilson,NC,336
+SANTA CLARA,CA,336
+Marengo,AL,336
+Newton              ,GA,335
+Shackelford,TX,335
+Walton,GA,335
+Harris              ,GA,334
+CT,AL,334
+Lee                 ,GA,334
+WYOMING,NY,334
+50,WI,333
+Marlboro,SC,333
+59,OR,332
+McDuffie            ,GA,332
+1,SC,331
+Horry County,SC,331
+57,OR,330
+109,CA,330
+Randolph,AL,330
+Calcasieu,LA,330
+Richland,WI,329
+13,WI,329
+Dorchester,SC,329
+Franklin,AL,328
+WA,AL,328
+SC,AL,328
+HENDERSON,TN,327
+Hutchinson,TX,327
+Lawrence,KY,327
+Fairfield,SC,327
+Morgan,KY,327
+SAN JUAN,UT,326
+TOMPKINS,NY,326
+Franklin,TX,326
+Wood,WV,325
+Winston,AL,325
+MONTGOMERY,NY,324
+Troup               ,GA,324
+Brazoria,TX,324
+Powell,MT,324
+11,WI,323
+Pontotoc,MS,322
+ORLEANS,NY,322
+Worcester,MA,322
+Dooly,GA,322
+Pickens,SC,322
+Preston,WV,321
+Eau Claire,WI,321
+Pershing,NV,320
+69,CO,320
+91,CA,320
+Haskell,TX,320
+Talbot              ,GA,319
+CORTLAND,NY,319
+Harris,TX,318
+Lanier              ,GA,318
+JUAB,UT,317
+59,WA,317
+Glynn               ,GA,317
+ARAPAHOE,CO,317
+017,CA,317
+DUCHESNE,UT,317
+Columbia,GA,316
+Jackson,AL,316
+Yuma,AZ,316
+Stevens,WA,316
+Hampton,SC,315
+13,AZ,314
+Lafayette,MS,314
+Green Lake,WI,314
+Inyo,CA,314
+Duplin,NC,313
+Latah,ID,313
+049,CA,313
+ORANGE,CA,312
+085,MI,312
+HAMILTON,NY,312
+SCHUYLER,NY,311
+Lawrence,AL,311
+Larimer,CO,311
+Beaufort,NC,311
+Winn,LA,311
+Washington,MO,309
+Leon,TX,309
+069,MI,309
+Lunenburg,VA,308
+Hillsborough,NH,308
+Buchanan,VA,307
+Dorchester,MD,307
+Elmore,AL,307
+SAN JOAQUIN,CA,306
+Warren,NC,306
+Clackamas,OR,306
+65,CA,306
+Grays Harbor County,WA,305
+LINCOLN,TN,305
+019,OR,305
+Hertford,NC,305
+Chisago,MN,305
+42,SC,304
+Mecklenburg,VA,304
+TULARE,CA,304
+Piscataquis,ME,303
+9,OR,303
+Richland,SC,303
+Bienville,LA,303
+Bertie,NC,303
+Garfield,UT,303
+Gilmer,GA,302
+Mono,CA,302
+Taylor              ,GA,301
+GRANT,AR,301
+Chippewa,WI,301
+WELD,CO,301
+Snohomish County,WA,301
+Orange,TX,300
+Caddo,LA,300
+Oxford,ME,300
+Douglas,MO,300
+23,AZ,299
+Shannon,MO,299
+Fairfield,CT,299
+Peach               ,GA,299
+Marquette,MI,299
+Desoto,FL,299
+Phelps,MO,298
+30,SC,298
+Mendocino,CA,298
+Gwinnett            ,GA,297
+MCNAIRY,TN,296
+69,WI,296
+Okanogan,WA,296
+Lavaca,TX,296
+LeFlore,OK,296
+21,ID,295
+San Saba,TX,295
+Chatham             ,GA,294
+Bryan North         ,GA,294
+Scott,MS,294
+NAPA,CA,293
+Greenville,SC,293
+123,TN,292
+Greene,NC,292
+Shawano,WI,292
+Davie,NC,291
+Habersham           ,GA,291
+Union,AR,291
+Peach,GA,291
+Union,MS,290
+Hemphill,TX,290
+Clare,MI,290
+Georgetown County,SC,289
+27,UT,288
+Dent,MO,288
+063,MT,288
+Winkler,TX,287
+Fisher,TX,287
+Calhoun,GA,286
+61,CA,286
+LAKE,CA,286
+Orange,NC,286
+Grafton,NH,284
+Garfield,MT,283
+Putnam              ,GA,283
+12,SC,283
+Jackson,WV,283
+Baldwin             ,GA,282
+Pike,GA,282
+Person,NC,282
+Stephens            ,GA,282
+Frederick,VA,281
+Halifax,NC,281
+Sanpete,UT,281
+003,NM,281
+107,CA,280
+31,MT,280
+Summers,WV,280
+41,UT,280
+Lewis & Clark,MT,280
+10,SC,279
+Pike                ,GA,279
+70,WI,279
+Montgomery          ,GA,278
+Franklin,MS,278
+Spartanburg,SC,278
+Otsego,MI,277
+Scott,VA,277
+Hinds,MS,277
+081,MT,277
+ALAMEDA,CA,277
+Morgan,MO,276
+Upshur,WV,276
+Franklin            ,GA,275
+Dallas,MO,275
+19,SC,275
+33,SC,275
+Roane,WV,275
+Dare,NC,274
+63,WA,274
+MORGAN,TN,273
+Charleston,SC,273
+Albemarle,VA,273
+24,OR,272
+Dawson,GA,272
+Greenbrier,WV,271
+Granville,NC,270
+Barry,MO,270
+Trinity,CA,270
+Baker,OR,270
+BI,AL,269
+ES,AL,269
+Lee,VA,269
+YATES,NY,269
+Mason,TX,269
+65,WA,269
+RHEA,TN,268
+Campbell,VA,268
+039,NM,268
+Jefferson,MS,268
+Beaufort,SC,267
+Sandoval,NM,267
+57,WI,267
+Wilkes              ,GA,266
+25,OR,266
+Monroe,MS,266
+Hart,GA,266
+Heard,GA,266
+29,WI,265
+Texas,MO,265
+Webster,MS,265
+Amador,CA,265
+Hampton County,SC,264
+Summit,UT,264
+GARLAND,AR,264
+SANPETE,UT,264
+36,SC,264
+Fresno,CA,263
+Rockingham,NH,263
+Monroe,WV,263
+MORGAN,UT,263
+Butts,GA,263
+Macon               ,GA,262
+Jefferson,TX,262
+Stewart             ,GA,262
+Twin Falls,ID,262
+Martin,NC,261
+Oconee,SC,261
+IZARD,AR,261
+Adams,CO,261
+Choctaw,MS,261
+Caroline,MD,261
+Jasper              ,GA,260
+7,OR,260
+Habersham,GA,260
+21,OR,260
+COLUMBIA,AR,260
+FULTON,AR,259
+Los Angeles,CA,259
+Ritchie,WV,259
+Bannock,ID,259
+Crook,WY,259
+065,CA,259
+137,MN,258
+8,OR,258
+Ward,TX,258
+Ashe,NC,258
+Greene,AL,257
+Robertson,TX,257
+Merrimack,NH,256
+Bossier,LA,256
+Barron,WI,256
+Braxton,WV,256
+HICKMAN,TN,256
+Oglethorpe          ,GA,255
+EL PASO,CO,254
+Franklin,GA,254
+Newton,MO,253
+Clallam County,WA,253
+Teller,CO,253
+Lincoln,ID,253
+Johnson,KS,253
+Ferry County,WA,253
+Bailey,TX,252
+Barbour,AL,252
+Wilbarger,TX,252
+Anderson,SC,252
+Madison             ,GA,251
+BENTON,TN,251
+Louisa,VA,250
+Gates,NC,250
+Carteret,NC,250
+Nueces,TX,249
+Douglas,NV,249
+WHITE,AR,249
+Jerome,ID,249
+Gilmer              ,GA,249
+Queens,NY,249
+Pittsylvania,VA,249
+Lamar,AL,248
+Weston,WY,248
+Clark,AR,248
+Jeff Davis,TX,248
+Hartford,CT,248
+007,WA,248
+Crawford,MI,248
+WASATCH,UT,248
+Fayette,AL,248
+Northampton,NC,248
+025,AZ,247
+Dorchester County,SC,247
+139,TN,247
+Webster,LA,247
+Crawford,WI,246
+SENECA,NY,246
+Lee County,SC,246
+Tehama,CA,246
+Graham,AZ,245
+Hartley,TX,245
+013,AZ,245
+Jefferson,WV,245
+Buckingham,VA,244
+Sheridan,WY,244
+Sevier,UT,244
+Morgan,WV,243
+Izard,AR,243
+Grant,LA,243
+Miller              ,GA,243
+Tulare,CA,243
+Drew,AR,243
+77,SC,243
+Caroline,VA,242
+KNOX,ME,241
+Dooly               ,GA,241
+Skagit County,WA,241
+ADAMS,CO,241
+BLEDSOE,TN,240
+Mineral,WV,240
+CARROLL,TN,240
+085,ID,240
+Wilkes,GA,240
+AMADOR,CA,239
+89,CA,239
+Webster,GA,239
+Howell,MO,239
+Lake,CA,238
+Weld,CO,237
+Butler,KS,237
+Greene              ,GA,237
+TC,AL,236
+Grenada,MS,236
+Nevada,AR,236
+Marion,WV,236
+Arapahoe,CO,236
+Clay,MS,235
+Union               ,GA,235
+Dawson              ,GA,235
+079,ID,235
+Calhoun,SC,235
+45,SC,235
+46,SC,235
+Lauderdale,MS,235
+MA,AL,235
+Wolfe,KY,234
+Winona,MN,234
+White,GA,234
+Monroe,FL,234
+51,WA,234
+Rosebud,MT,234
+Tate,MS,233
+35,NM,233
+65,SC,233
+Ashley,AR,233
+CARBON,PA,233
+Lamar,GA,232
+Pierce County,WA,232
+Lamar               ,GA,232
+Carson,TX,231
+Iowa,WI,231
+Mariposa,CA,231
+019,CA,231
+CLARK,AR,231
+Columbia            ,GA,231
+Yakima County,WA,231
+Wilkinson,MS,231
+Lynn,TX,231
+Albany,WY,230
+Nottoway,VA,230
+Dallam,TX,229
+Bullock,AL,229
+Otero,CO,229
+JEFFERSON DAVIS,MS,229
+55,ID,229
+Crenshaw,AL,229
+047,WA,229
+Bibb                ,GA,229
+Dougherty           ,GA,228
+83,FL,228
+Marlboro County,SC,228
+4,SC,227
+LAMAR,MS,227
+Clearfield,PA,227
+59,ID,227
+Avery,NC,226
+241,GA,226
+Calhoun,AR,226
+STANISLAUS,CA,226
+Durham,NC,226
+015,ID,226
+Humboldt,CA,226
+Searcy,AR,226
+Pitt,NC,224
+UINTAH,UT,224
+CA,AL,224
+Skamania County,WA,223
+Island County,WA,223
+Wayne,TN,223
+34,OR,223
+Suffolk,NY,223
+101,MI,223
+Carroll,VA,223
+Presidio,TX,223
+57,SC,222
+Caldwell,LA,222
+073,CA,222
+Custer,MT,222
+16,WI,221
+Polk,NC,221
+CUMBERLAND,ME,221
+Kimble,TX,221
+Randolph            ,GA,221
+Estill,KY,221
+14,OR,221
+Heard               ,GA,220
+44,WI,220
+FRANKLIN,ME,219
+CAMPBELL,TN,219
+Calhoun,MS,219
+De Soto,FL,219
+Washington,NC,219
+INDEPENDENCE,AR,219
+13,OR,218
+Coos,OR,218
+39,MT,218
+Fulton,AR,217
+Rockwall,TX,217
+Lowndes,MS,217
+LASSEN,CA,217
+Transylvania,NC,217
+19,CA,217
+TOOELE,UT,216
+1,OK,216
+36,OR,215
+Henderson,TN,215
+2,OR,215
+Bedford,VA,215
+SEARCY,AR,214
+6,SC,214
+Walton              ,GA,214
+VAN BUREN,TN,213
+Desoto,MS,213
+McNairy,TN,212
+47,MS,212
+66,WI,211
+Greene,MO,211
+Boulder,CO,211
+Cecil,MD,211
+Elbert              ,GA,211
+Garland,AR,210
+061,MT,210
+37,SC,209
+Wayne,KY,209
+73,SC,209
+17,NM,209
+Laurel,KY,209
+MILLARD,UT,208
+Adams,ID,208
+MONROE,TN,208
+Laurens,SC,208
+Stone,MO,207
+001,OR,207
+Lampasas,TX,207
+Lee,MS,207
+Granite,MT,207
+Wasco,OR,207
+Ashland,WI,207
+Leavenworth,KS,207
+Benton,TN,206
+Prowers,CO,206
+Menominee,MI,206
+Pulaski,MO,206
+9,SC,206
+Otero,NM,206
+Warren              ,GA,206
+BRADFORD,PA,206
+PIKE,OH,205
+Pickens,AL,205
+44,SC,205
+Goliad,TX,205
+CUMBERLAND,TN,205
+Torrance,NM,205
+Independence,AR,204
+51,CA,204
+MO,AL,204
+Jefferson,MT,204
+61,WA,204
+Benton,MO,203
+61,WI,203
+63,OR,203
+HARDEMAN,TN,203
+MARION,MS,203
+Franklin,ME,203
+La Plata,CO,203
+La Salle,LA,202
+Catron,NM,201
+Ozark,MO,201
+Mitchell,NC,201
+Park,WY,201
+Grant,WV,201
+Taos,NM,201
+Glascock,GA,200
+57,CA,200
+Lancaster,SC,200
+Talbot,MD,200
+Edgecombe,NC,200
+Delta,CO,199
+39,WA,199
+029,MT,199
+Dare Bomb Range,NC,199
+LINCOLN,ME,199
+Sharp,AR,199
+AU,AL,198
+Wright,MO,198
+Wakulla,FL,198
+73,WI,198
+Hansford,TX,198
+34,SC,198
+9,AZ,197
+Otter Tail,MN,197
+GILES,TN,197
+27,NM,197
+Crawford,MO,197
+Dillon County,SC,197
+Roscommon,MI,197
+135,MI,196
+Converse,WY,196
+37,ID,196
+Abbeville County,SC,196
+Hall,TX,196
+107,CO,196
+Banks,GA,195
+Monroe,NY,195
+11,OK,195
+Marshall,WV,194
+Llano,TX,194
+Jefferson County,WA,194
+061,CA,193
+73,CA,193
+Vance,NC,193
+Allegany,MD,193
+NEVADA,AR,193
+81,SC,193
+Henry,MO,193
+017,AZ,192
+Zapata,TX,192
+CC,AL,192
+Lenoir,NC,192
+21,MN,192
+Carter,MT,192
+Whatcom County,WA,192
+39,WY,191
+PIKE,PA,191
+Evangeline,LA,191
+17,SC,191
+Reynolds,MO,190
+85,CO,190
+Jefferson,MO,190
+Lincoln,TN,189
+Terrell,GA,189
+Wheeler,OR,189
+51,KY,189
+Marshall,AL,189
+Schley,GA,189
+113,NC,188
+MARIPOSA,CA,188
+SAN MATEO,CA,188
+77,MT,188
+Concho,TX,188
+CACHE,UT,188
+Cheshire,NH,187
+HENRY,TN,187
+De Witt,TX,187
+Duchesne,UT,186
+Clark,WI,186
+005,OR,186
+Oktibbeha,MS,185
+Yancey,NC,185
+RD,AL,185
+Muhlenberg,KY,185
+58,WI,185
+SEQUATCHIE,TN,184
+FAULKNER,AR,184
+7,CO,184
+CALHOUN,AR,184
+Falls,TX,184
+Calhoun County,SC,184
+Nelson,VA,183
+Fulton              ,GA,183
+Jefferson,AR,183
+089,CA,183
+SHARP,AR,183
+BOULDER,CO,183
+Montgomery,AL,182
+Gonzales,TX,182
+Montgomery,KS,182
+Bernalillo,NM,182
+Pendleton,WV,181
+Richland County,SC,181
+YOLO,CA,181
+Saint Clair,AL,181
+Pacific County,WA,181
+WEBER,UT,181
+42,WI,181
+New Hanover,NC,181
+Rockdale,GA,180
+Miller,MO,180
+Gooding,ID,180
+037,OR,180
+Morgan,GA,180
+Cottle,TX,179
+Big Horn,WY,179
+Cheboygan,MI,179
+Wicomico,MD,179
+TP,AL,179
+Beaufort County,SC,178
+Crawford,AR,178
+Iron,WI,178
+Bryan South,GA,178
+TEXAS,MO,178
+Doddridge,WV,178
+41,WA,177
+Lee,AL,177
+Florence,WI,177
+Blaine,ID,177
+Waldo,ME,176
+87,OH,176
+Columbia,AR,176
+Lincoln,GA,176
+Orange,NY,175
+Floyd,TX,175
+Webster,WV,175
+Pike,AL,174
+Barbour,WV,174
+Russell,VA,174
+Dickenson,VA,174
+Dinwiddie,VA,174
+Houston,MN,174
+75,NC,173
+SCOTT,TN,173
+Hart                ,GA,173
+Bingham,ID,173
+DECATUR,TN,173
+Hardy,WV,173
+35,CA,173
+39,NC,173
+Chester,SC,172
+De Soto,LA,172
+Spotsylvania,VA,172
+De Baca,NM,172
+Montgomery,MS,172
+27,WI,172
+Oregon,MO,172
+Sumner,KS,172
+Grant,WI,172
+Marion,SC,172
+065,WA,172
+19,WA,171
+HARRISON,MS,171
+CENTRE,PA,171
+33,SD,171
+Yellowstone,MT,170
+KERN,CA,170
+Clay,NC,170
+VAN BUREN,AR,170
+LEAKE,MS,170
+BERKS,PA,170
+53,OR,170
+Charlotte,VA,170
+Pinellas,FL,169
+Stonewall,TX,169
+Union,SC,169
+Throckmorton,TX,169
+HAMILTON,TN,169
+Barnwell,SC,169
+LINCOLN,MS,169
+York,SC,169
+San Luis Obispo,CA,169
+CLEBURNE,AR,168
+Conway,AR,168
+55,WI,168
+Cibola,NM,168
+Lipscomb,TX,167
+Cowley,KS,167
+Iowa,IA,167
+CRAWFORD,AR,167
+Geneva,AL,167
+Jones,NC,167
+051,CA,166
+Webster             ,GA,166
+COFFEE,TN,166
+Cherokee,SC,166
+Nez Perce,ID,166
+JACKSON,MS,166
+Marion,AR,165
+Ohio,KY,165
+Kalkaska,MI,165
+BRADLEY,AR,165
+St Tammany,LA,165
+Providence,RI,165
+16,OR,164
+Franklin,MO,164
+CL,AL,164
+St. Mary's,MD,164
+Glascock            ,GA,163
+Baker               ,GA,163
+Douglas,KS,163
+13,CO,163
+Forsyth,GA,163
+3,NV,163
+BENTON,AR,163
+Coffee,AL,162
+Moore,TX,162
+Bradley,AR,162
+Augusta,VA,162
+Gladwin,MI,162
+067,CO,162
+Lemhi,ID,162
+Liberty,FL,162
+Lancaster County,SC,162
+Arenac,MI,161
+LEWIS,TN,161
+17,UT,160
+35,MS,160
+Towns,GA,160
+Pennington,SD,160
+33,WA,160
+Guadalupe,NM,160
+DREW,AR,160
+Ogemaw,MI,160
+Dickens,TX,160
+Delta,TX,159
+Stevens C,WA,159
+063,WA,159
+ANDROSCOGGIN,ME,159
+DICKSON,TN,159
+Jefferson,OR,159
+Watauga,NC,159
+Midland,MI,158
+Emery,UT,158
+BEAVER,UT,158
+Motley,TX,158
+Morgan,AL,158
+Red River,LA,158
+34,WI,158
+Bibb,GA,158
+Barnwell County,SC,158
+Monroe,KY,157
+Alpena,MI,157
+99,WI,157
+6,NM,157
+51,CO,157
+ASHLEY,AR,157
+Oconee              ,GA,156
+Carson City,NV,156
+DALLAS,AR,156
+Reno,KS,156
+Caswell,NC,156
+Gilmer,WV,156
+Napa,CA,156
+Lake,MT,156
+Brunswick,VA,156
+67,MT,156
+Bamberg,SC,156
+Polk,WI,155
+Graves,KY,155
+Hardeman,TX,155
+Alcona,MI,155
+39,CA,155
+Chickasaw,MS,155
+Zavala,TX,155
+Wise,VA,155
+9,MS,155
+Imperial,CA,155
+Camden,NC,155
+029,CA,155
+Swain,NC,154
+Gila,AZ,154
+Klickitat,WA,154
+White               ,GA,154
+Washington,MD,154
+19,ID,154
+035,ID,154
+Pasquotank,NC,154
+White,AR,153
+Crockett,TX,153
+Aransas,TX,153
+East Feliciana,LA,153
+Lawrence,OH,153
+Pocahontas,WV,153
+HEMPSTEAD,AR,152
+Madison,TX,152
+Henry,VA,152
+007,CO,152
+Woodbury,IA,152
+Thurston,WA,152
+Terrell             ,GA,152
+Weakley,TN,152
+CONWAY,AR,151
+Jackson,GA,151
+Montmorency,MI,151
+Hempstead,AR,151
+Strafford,NH,151
+McCulloch,TX,151
+LACLEDE,MO,151
+123,NC,151
+Coos,NH,151
+29,CA,151
+RS,AL,150
+McDonald,MO,150
+Oconee County,SC,150
+029,OR,150
+27,OR,150
+Douglas,MN,150
+Collingsworth,TX,150
+Franklin,VA,149
+Armstrong,TX,149
+049,MT,149
+Chesterfield,VA,149
+Lyon,NV,148
+083,FL,148
+3,CA,148
+Dickinson,MI,148
+Carroll,NH,148
+3,ID,148
+PIKE,AR,148
+Kings,NY,148
+089,MT,147
+043,NM,147
+SEVIER,TN,147
+Oneida,ID,147
+FY,AL,147
+LOGAN,AR,146
+Osceola,MI,146
+Wake,NC,146
+Jackson             ,GA,146
+DYER,TN,146
+San Miguel,CO,145
+Lamb,TX,145
+Butts               ,GA,145
+Terry,TX,145
+037,WA,145
+47,NM,145
+Rockingham,VA,145
+Grundy,TN,145
+Hardin,TN,145
+Allendale,SC,145
+SEBASTIAN,AR,145
+Limestone,AL,144
+Sumter,AL,144
+Fairfield County,SC,144
+Gray,TX,144
+La Paz,AZ,144
+Hickman,TN,144
+Wakula,FL,144
+35,WI,143
+Amelia,VA,143
+Fluvanna,VA,143
+Lincoln             ,GA,143
+Morgan              ,GA,143
+111,NC,143
+Rowan,KY,143
+Casey,KY,142
+Navajo,AZ,142
+Power,ID,142
+Madison,AL,142
+23,CA,142
+091,CA,141
+64,WI,141
+Lyon,KS,140
+59,WI,140
+Dimmit,TX,140
+Frederick,MD,140
+Henry,AL,140
+Coffee,TN,140
+109,KY,140
+059,ID,139
+Saluda,SC,139
+Bamberg County,SC,139
+PULASKI,AR,139
+CV,AL,139
+Luzerne,PA,139
+Christian,MO,138
+Franklin,KS,138
+Churchill,NV,138
+1,WY,138
+Nye,NV,138
+TISHOMINGO,MS,138
+SCIOTO,OH,138
+CLAIBORNE,TN,138
+New Kent,VA,137
+Quay,NM,137
+Banks               ,GA,136
+Edgefield,SC,136
+063,OR,136
+Bronx,NY,136
+POPE,AR,136
+Dane,WI,136
+Union,LA,136
+Westchester,NY,136
+Clinton,KY,136
+Cleveland,AR,136
+Hot Springs,WY,135
+Antrim,MI,135
+Rockdale            ,GA,135
+Galveston,TX,135
+Prince Edward,VA,135
+Greenwood,SC,135
+Oconee,GA,135
+Madera,CA,135
+Lewis,KY,135
+Johnson,IA,134
+Deaf Smith,TX,134
+SOLANO,CA,134
+PERRY,AR,134
+24,WI,134
+Waller,TX,134
+CAMDEN,MO,134
+Maries,MO,134
+53,UT,134
+Lincoln,LA,134
+Mercer,NJ,134
+Houston,AL,134
+39,OK,133
+Richmond,NY,133
+43,ID,133
+CARBON,UT,133
+HANCOCK,MS,133
+Lawrence,TN,133
+13,WA,133
+Logan,AR,133
+Monterey,CA,132
+Newberry,SC,132
+Charleston County,SC,132
+53,WA,132
+WESTMORELAND,PA,131
+Choctaw,OK,131
+055,NM,131
+Gem,ID,131
+Dallas,AR,131
+Knox,ME,131
+Crosby,TX,131
+FAYETTE,PA,131
+49,UT,131
+NORTHUMBERLAND,PA,131
+Lewis,WV,130
+Accomack,VA,130
+Wexford,MI,130
+131,KY,130
+Greenville County,SC,130
+Plumas,CA,130
+55,NM,129
+CO,AL,129
+Coke,TX,129
+1,MT,129
+Miami,KS,129
+Jackson,KS,129
+53,NM,129
+MARSHALL,MS,129
+Clayton             ,GA,128
+Curry,NM,128
+Quitman             ,GA,128
+Van Buren,AR,128
+Jackson,LA,128
+Wallowa,OR,128
+001,AZ,128
+AMITE,MS,128
+3,SC,128
+Lewis,ID,127
+13,UT,127
+75,MT,127
+75,MN,127
+STONE,MS,126
+Taliaferro,GA,126
+Bledsoe,TN,126
+Randolph,WV,126
+SAGADAHOC,ME,126
+9,UT,126
+Ripley,MO,126
+MCMINN,TN,126
+Osage,KS,126
+Willacy,TX,126
+105,MI,125
+CH,AL,125
+Barrow,GA,125
+Anderson County,SC,125
+Harford,MD,125
+SAN BENITO,CA,125
+Randolph,AR,125
+Towns               ,GA,125
+Faulkner,AR,125
+Amherst,VA,124
+HUMPHREYS,TN,124
+Lafayette,AR,124
+Taylor,WV,124
+Schleicher,TX,124
+Fergus,MT,124
+Hanover,VA,124
+Brooks,TX,123
+Douglas             ,GA,123
+39,ID,123
+13,ID,123
+Austin,TX,123
+STEWART,TN,123
+Platte,WY,123
+Linn,OR,123
+Pickens County,SC,123
+ATTALA,MS,123
+7,NV,122
+Hopkins,KY,122
+53,WI,122
+4,WI,122
+Quitman,GA,122
+Campbell,TN,122
+Wetzel,WV,122
+Crawford,KS,121
+Claiborne,MS,121
+19,TN,121
+Santa Cruz,AZ,121
+Sevier,AR,121
+JEFFERSON,AR,121
+Noxubee,MS,121
+Appomattox,VA,121
+SHANNON,MO,121
+Barnstable,MA,121
+Boyd,KY,121
+RANDOLPH,AR,121
+109,CO,121
+131,MS,120
+Real,TX,120
+Alamance,NC,120
+Chattahoochee       ,GA,120
+Val Verde,TX,119
+Oceana,MI,119
+CARROLL,AR,119
+Story,IA,119
+Missaukee,MI,119
+West Carroll,LA,119
+Union,IA,118
+Cherokee,KS,118
+Tyler,WV,118
+Cleburne,AR,118
+Anderson,KS,118
+Muskogee,OK,118
+Bonneville,ID,118
+Schuylkill,PA,118
+Calhoun             ,GA,118
+MONROE,PA,118
+153,MS,117
+Johnson,AR,117
+Carbon,PA,117
+BT,AL,117
+103,CA,117
+Grand Traverse,MI,117
+SEVIER,AR,117
+Belknap,NH,117
+Madison,VA,117
+Taliaferro          ,GA,117
+72,WI,116
+Dale,AL,116
+Somerset,MD,116
+Apache,AZ,116
+Wasatch,UT,116
+Cumberland,KY,116
+Wayne,MO,116
+Elliott,KY,116
+Duval,TX,116
+Monroe,PA,116
+Tama,IA,115
+Forest,WI,115
+Lancaster,VA,115
+39,UT,115
+JOHNSON,AR,115
+Washington,VA,115
+Stone,AR,115
+Menominee,WI,115
+Delta,MI,115
+FRANKLIN,AR,115
+BK,AL,115
+129,OK,115
+43,OR,115
+Perry,AR,114
+Bergen,NJ,114
+Dolores,CO,114
+WAYNE,MS,114
+Las Animas,CO,114
+Washington,RI,114
+039,CA,114
+OBION,TN,114
+Orange,VA,114
+059,WA,113
+Botetourt,VA,113
+LaSalle,LA,113
+Yuba,CA,113
+PR,AL,113
+013,OR,113
+Fauquier,VA,113
+Edwards,TX,113
+Clay,GA,113
+40,OK,113
+Brewster,TX,113
+WRIGHT,MO,113
+Gunnison,CO,112
+Catahoula,LA,112
+023,CA,112
+Pamlico,NC,112
+KINGS,CA,112
+Kittitas,WA,112
+CLARE,MI,112
+LAFAYETTE,AR,111
+Greenwood County,SC,111
+Fayette             ,GA,111
+Douglas,GA,111
+CLEVELAND,AR,111
+Pope,AR,111
+Calloway,KY,111
+Mills,TX,111
+Saluda County,SC,111
+Sussex,VA,110
+Calvert,MD,110
+CS,AL,110
+DOUGLAS,MO,110
+Barry,MI,110
+077,WA,110
+45,WA,110
+McCormick,SC,110
+017,NM,110
+MUSKINGUM,OH,110
+WINSTON,MS,110
+Chester County,SC,110
+Androscoggin,ME,109
+Calhoun,WV,109
+Pulaski,KY,109
+TIPPAH,MS,109
+GRAND,UT,109
+85,MI,108
+Wharton,TX,108
+LACKAWANNA,PA,108
+Dekalb              ,GA,108
+025,OR,108
+Webster,MO,108
+Charles City,VA,108
+Lincoln,SD,108
+Alleghany,NC,107
+Luna,NM,107
+HOLMES,MS,107
+BERKSHIRE,MA,107
+Petroleum,MT,107
+Spartanburg County,SC,107
+HOWARD,AR,107
+BL,AL,107
+Deer Lodge,MT,107
+HUNTINGDON,PA,106
+LITTLE RIVER,AR,106
+Lawrence,MO,106
+Carbon,MT,106
+PRENTISS,MS,106
+Harrison,IA,106
+Calhoun,TX,106
+69,FL,106
+Charles Mix,SD,106
+MARION,AR,106
+Laurens County,SC,106
+087,OH,106
+057,CA,106
+CHESTER,TN,106
+039,MT,105
+Rapides-2,LA,105
+HAWKINS,TN,105
+23,WY,105
+OZARK,MO,105
+WALTHALL,MS,105
+003,ID,105
+Pend Oreille,WA,104
+Cache,UT,104
+Hyde,NC,104
+Chelan,WA,104
+SANTA BARBARA,CA,104
+Martin,TX,104
+DEKALB,TN,104
+LR,AL,104
+Minnehaha,SD,104
+73,WA,104
+San Juan County,WA,103
+CK,AL,103
+Baylor,TX,103
+Breckinridge,KY,103
+LAWRENCE,OH,103
+18,WI,103
+77,CO,102
+037,CO,102
+Bourbon,KS,102
+CB,AL,102
+Bryan South         ,GA,102
+DS,AL,102
+115,LA,102
+Carroll,AR,102
+Carroll,TN,102
+Okanogan C,WA,102
+Irion,TX,102
+Albany,NY,102
+Hale,TX,102
+Franklin,AR,101
+Brown,SD,101
+Hampshire,MA,101
+Chattahoochee,GA,101
+203,MO,101
+003,CA,101
+LM,AL,101
+Marion County,SC,101
+Dona Ana,NM,100
+Union,NM,100
+St. Clair,AL,100
+051,WA,100
+Kenedy,TX,100
+Lincoln,ME,100
+43,MT,100
+Morgan,TN,100
+61,MN,100
+Sebastian,AR,100
+WASHINGTON,MO,99
+Marion,TN,99
+31,ID,99
+Massac,IL,99
+Middlesex,MA,99
+YELL,AR,99
+165,MI,99
+5,SC,99
+Grayson,VA,99
+PENNINGTON,SD,99
+Page,VA,99
+019,WA,99
+WASHINGTON,AR,98
+Lawrence,SD,98
+49,MT,98
+Spokane C,WA,98
+037,UT,98
+Hardin,KY,98
+Mitchell,TX,98
+Cedar,MO,98
+Ector,TX,98
+129,FL,98
+Riley,KS,98
+57,WA,98
+Butte,ID,97
+Yazoo,MS,97
+Bandera,TX,97
+New York,NY,97
+Barrow              ,GA,97
+059,OR,97
+Howard,AR,97
+043,OR,97
+Taney,MO,97
+HOWELL,MO,97
+Uinta,WY,97
+GEORGE,MS,96
+53,ND,96
+Schley              ,GA,96
+PS,AL,96
+Cherokee,IA,96
+STONE,AR,96
+111,CA,96
+CW,AL,96
+Curry,OR,96
+TRINITY,CA,96
+7,ND,96
+Morehouse,LA,96
+Pulaski,AR,96
+ALBEMARLE,VA,96
+61,OK,95
+31,NV,95
+2,WI,95
+Hickory,MO,95
+Hardeman,TN,95
+Ferry,WA,95
+BB,AL,95
+Archuleta,CO,95
+Hidalgo,NM,95
+Lucas,IA,95
+Matagorda,TX,95
+Lincoln County,WA,95
+Shenandoah,VA,95
+Pike,AR,95
+Umatilla,OR,95
+Gloucester,VA,95
+LEHIGH,PA,95
+Tazewell,VA,95
+Wirt,WV,95
+Sterling,TX,95
+HANCOCK,TN,94
+ROANE,TN,94
+DEL NORTE,CA,94
+Lincoln,KY,94
+LAUDERDALE,TN,94
+35,WY,94
+021,MN,93
+Monroe,TN,93
+40,WI,93
+Williamson,IL,93
+031,MT,93
+Scioto,OH,93
+Kent,RI,93
+113,CO,93
+Fillmore,MN,93
+Marion,OR,93
+PERRY,PA,93
+BENTON,MS,92
+COPIAH,MS,92
+LW,AL,92
+WC,AL,92
+Lake,MI,92
+Boone,AR,92
+5,NV,92
+SCOTT,AR,92
+Patrick,VA,92
+125,KY,92
+Fayette,IA,92
+Cherokee County,SC,92
+Ouachita,LA,92
+Madison,MO,92
+Pecos,TX,91
+DeSoto,FL,91
+039,WA,91
+Union County,SC,91
+Madison,KY,91
+Jefferson,KS,90
+Minidoka,ID,90
+Jackson,OH,90
+Polk,MO,90
+Yankton,SD,90
+Allegan,MI,90
+King County,WA,90
+PUTNAM,TN,90
+PERRY,MS,90
+035,CA,89
+MG,AL,89
+Carter,MO,89
+Newton,AR,89
+Washington,AR,89
+Culberson,TX,89
+Alpine,CA,88
+Runnels,TX,88
+Sierra,NM,88
+Queen Anne's,MD,88
+Allendale County,SC,88
+TIOGA,PA,88
+Montgomery,VA,88
+MEIGS,TN,88
+187,GA,88
+COCHISE,AZ,88
+Scott,AR,87
+Lincoln,AR,87
+Ottawa,OK,87
+Blair,PA,87
+Giles,TN,87
+JK,AL,87
+BEDFORD,PA,87
+5,ID,87
+Southampton,VA,87
+Oscoda,MI,87
+Powell,KY,87
+Yakima,WA,87
+Yamhill,OR,87
+Chambers,TX,87
+PERRY,TN,86
+Northumberland,PA,86
+Gwinnett,GA,86
+Edgefield County,SC,86
+Sublette,WY,86
+Pike,PA,86
+049,UT,85
+29,TN,85
+Madison,AR,85
+Greensville,VA,85
+Garrett,MD,85
+Sullivan,NH,85
+Adair,KY,85
+Muskegon,MI,85
+Lewis,WA,85
+RICH,UT,85
+MR,AL,85
+9,WY,85
+Rio Grande,CO,85
+Chippewa,MI,85
+033,SD,85
+Rockland,NY,84
+061,OR,84
+68,OK,84
+Wyandotte,KS,84
+017,UT,84
+Sevier,TN,84
+10,WI,84
+235,KY,84
+San Patricio,TX,84
+Cowlitz,WA,84
+Tyrrell,NC,83
+CRAWFORD,MO,83
+31,MN,83
+001,MI,83
+CRAWFORD,MI,83
+SPOKANE,WA,83
+81,SD,83
+Schoolcraft,MI,83
+69,MI,83
+York County,SC,83
+Culpeper,VA,83
+Fort Bend,TX,83
+Pennington,MN,82
+FENTRESS,TN,82
+Christian,KY,82
+Polk,MN,82
+093,CO,82
+127,AR,82
+BAXTER,AR,82
+Phillips,MT,82
+Douglas,CO,82
+GUERNSEY,OH,81
+023,AZ,81
+Berks,PA,81
+LAWRENCE,MS,81
+WEBSTER,MS,81
+CR,AL,81
+Kleberg,TX,81
+Sagadahoc,ME,81
+CANNON,TN,81
+111,GA,80
+51,NM,80
+Pulaski,VA,80
+001,MT,80
+Ulster,NY,80
+Pike,OH,80
+ARMSTRONG,PA,80
+DENT,MO,80
+Warren,VA,80
+Wilson,TN,79
+BARRY,MO,79
+Grays Harbor,WA,79
+Saline,KS,79
+ALCORN,MS,79
+Bryan,GA,79
+133,AL,79
+49,WI,79
+73,OH,79
+Gallia,OH,79
+037,ID,79
+039,WY,79
+St Lawrence,NY,79
+019,AZ,79
+Grayson,KY,78
+11,WA,78
+Onondaga,NY,78
+89,OK,78
+49,NC,78
+GREENE,MS,78
+Blaine,MT,78
+Cambria,PA,78
+001,WY,78
+Mason,WA,77
+003,NV,77
+OTSEGO,MI,77
+HOUSTON,TN,77
+Yell,AR,77
+Baca,CO,77
+033,WA,77
+Middlesex,VA,77
+Northumberland,VA,77
+Barton,KS,77
+31,OR,77
+43,NC,77
+St. Clair,MO,77
+LANCASTER,PA,76
+3,FL,76
+Prince George,VA,76
+Scott,TN,76
+MARQUETTE,MI,76
+31,NC,76
+Nassau,NY,76
+NEWTON,AR,76
+MONROE,MS,75
+Muscogee            ,GA,75
+Saint Clair,MO,75
+27,NC,75
+Union,OR,75
+37,MS,75
+ITAWAMBA,MS,75
+Polk,AR,75
+Cobb                ,GA,75
+FRANKLIN,PA,75
+GALLIA,OH,75
+LAWRENCE,PA,75
+TALLAHATCHIE,MS,75
+67,CO,75
+JONES,MS,74
+Morgan,UT,74
+Johnson,MO,74
+065,OR,74
+McCreary,KY,74
+003,AZ,74
+Jones,IA,74
+Henry,TN,74
+Chaffee,CO,74
+Essex,VA,74
+12,WI,74
+Chowan,NC,74
+035,WY,74
+67,WA,74
+17,WI,74
+017,ID,74
+Niobrara,WY,74
+077,MT,74
+Louisa,IA,74
+St. Marys,MD,74
+Custer,ID,74
+11,WY,74
+Presque Isle,MI,74
+113,AR,74
+Sherman,TX,73
+Emmet,MI,73
+Desoto,LA,73
+47,OR,73
+221,MO,73
+Clay                ,GA,73
+Iron,MI,72
+GR,AL,72
+Claiborne,TN,72
+5,WI,72
+041,UT,72
+123,MS,72
+Hart,KY,72
+MODOC,CA,72
+Little River,AR,72
+JASPER,MS,72
+MADISON,MS,71
+Grand,CO,71
+ALCONA,MI,71
+115,CA,71
+OREGON,MO,71
+NEWTON,MO,71
+Lincoln,WA,71
+Iron,MO,71
+Goochland,VA,71
+Hancock,WV,71
+Webb,TX,71
+Pottawatomie,KS,71
+15,UT,71
+Metcalfe,KY,70
+REYNOLDS,MO,70
+Harvey,KS,70
+MIDLAND,MI,70
+FRANKLIN,TN,70
+Adams,OH,70
+LINCOLN,AR,70
+KNOX,TN,70
+HILLSBOROUGH,NH,70
+33,CO,70
+Clark,WA,69
+059,MT,69
+23,FL,69
+ROSS,OH,69
+105,CO,69
+Meade,SD,69
+175,NC,69
+Columbia,OR,69
+FORREST,MS,69
+Bon Homme,SD,69
+VENANGO,PA,69
+MARIN,CA,68
+Isle of Wight,VA,68
+83,WI,68
+7,WI,68
+117,CO,68
+Beaverhead,MT,68
+SOMERSET,PA,68
+153,MO,68
+041,WA,68
+SUTTER,CA,68
+LE,AL,68
+033,OR,68
+73,FL,68
+SEVIER,UT,68
+NORTHAMPTON,PA,68
+37,FL,68
+047,OR,67
+23,WA,67
+POLK,AR,67
+Wabasha,MN,67
+Lincoln,WY,67
+Park,CO,67
+Sonoma,CA,67
+043,MT,67
+069,CO,67
+WS,AL,67
+1,NM,67
+061,WA,67
+James City,VA,67
+Clatsop,OR,67
+BENTON,MO,66
+021,ID,66
+Stutsman,ND,66
+Warren,MO,66
+Ravalli,MT,66
+Benton,AR,66
+Rappahannock,VA,66
+Dickinson,KS,66
+Rensselaer,NY,66
+7,ID,66
+203,KY,66
+Poweshiek,IA,66
+225,TX,66
+Coffey,KS,66
+Neosho,KS,66
+15,VA,66
+Stewart,TN,66
+CM,AL,66
+CLARION,PA,66
+47,SD,66
+3,WA,65
+LAWRENCE,MO,65
+13,WY,65
+Greenwood,KS,65
+213,MO,65
+Fulton,GA,65
+Cameron,TX,65
+039,ID,65
+PIKE,MS,65
+MENOMINEE,MI,65
+15,CA,65
+15,WA,65
+Pleasants,WV,64
+Mcpherson,KS,64
+Garza,TX,64
+5,WY,64
+49,NM,64
+Trigg,KY,64
+Allen,KS,64
+21,WI,64
+79,OK,64
+MEIGS,OH,64
+179,MO,64
+Macoupin,IL,64
+Castro,TX,64
+027,OR,64
+GIBSON,TN,64
+99,NC,64
+291,GA,64
+Westmoreland,VA,64
+11,SC,64
+035,NM,64
+Saratoga,NY,64
+115,NC,64
+Washington,ID,64
+POLK,TN,64
+Knox,TX,64
+41,WI,64
+PK,AL,64
+Cumberland,TN,63
+Briscoe,TX,63
+NEWTON,MS,63
+Lawrence,AR,63
+Daggett,UT,63
+Fall River,SD,63
+Reagan,TX,63
+SIMPSON,MS,63
+Lyman,SD,63
+Buttler,KY,63
+3,OK,63
+Washington,MN,63
+NESHOBA,MS,62
+Caribou,ID,62
+RIPLEY,MO,62
+Huerfano,CO,62
+097,AR,62
+Union,SD,62
+UNION,TN,62
+CARROLL,OH,62
+Kent,MD,62
+McKinley,NM,62
+Centre,PA,62
+DAUPHIN,PA,62
+011,AZ,62
+Goshen,WY,62
+115,AR,62
+49,CO,61
+Wabaunsee,KS,61
+KEMPER,MS,61
+Maverick,TX,61
+165,VA,61
+083,CO,61
+Hood River,OR,61
+LAUDERDALE,MS,61
+Hawkins,TN,61
+Skamania,WA,61
+GRAINGER,TN,60
+McCracken,KY,60
+MORGAN,MO,60
+93,CO,60
+Chickasaw,IA,60
+023,WY,60
+Jackson,IA,60
+Roanoke,VA,60
+DALLAS,MO,60
+LS,AL,60
+FALL RIVER,SD,60
+015,SC,60
+043,LA,60
+DOUGLAS,CO,59
+ALPENA,MI,59
+Cannon,TN,59
+Graham,NC,59
+Wayne,IA,59
+5,CA,59
+23,NC,59
+151,IL,59
+005,WY,59
+5,UT,59
+Chemung,NY,59
+Ellis,KS,59
+43,UT,59
+Geary,KS,59
+123,CO,59
+Sheboygan,WI,59
+Summit,CO,59
+Childress,TX,59
+MARSHALL,TN,59
+BOONE,AR,59
+Lauderdale,TN,59
+Macon,TN,59
+21,AZ,58
+Monona,IA,58
+Rabun,GA,58
+Chester,TN,58
+006,NM,58
+59,MT,58
+Rich,UT,58
+97,AR,58
+Webster,KY,58
+CAMPBELL,VA,58
+HALIFAX,VA,58
+MINNEHAHA,SD,58
+053,UT,58
+Dickson,TN,58
+Warren,NY,58
+57,NM,58
+CLARKE,MS,58
+CARROLL,MS,58
+BRADLEY,TN,58
+Osage,MO,58
+LAWRENCE,AR,58
+Rhea,TN,58
+ANDERSON,TN,58
+29,WY,58
+SULLIVAN,TN,58
+Tillamook,OR,57
+INYO,CA,57
+PERRY,OH,57
+Polk,TN,57
+Cook,MN,57
+JACKSON,OH,57
+Elk,KS,57
+Musselshell,MT,57
+Ohio,WV,57
+055,ID,57
+069,FL,57
+Roane,TN,57
+Oldham,TX,57
+COVINGTON,MS,57
+Clayton,GA,57
+GARFIELD,UT,57
+Roberts,TX,57
+Bent,CO,57
+013,CO,57
+Cedar,IA,57
+127,LA,57
+027,UT,57
+SMITH,MS,56
+Newberry County,SC,56
+079,OK,56
+Clinton,NY,56
+HA,AL,56
+Yolo,CA,56
+Greene,VA,56
+081,SD,56
+Cascade,MT,56
+Luce,MI,56
+Mercer,MO,56
+Brown,KS,56
+Fayette,PA,56
+Klickitat C,WA,55
+Clarke,VA,55
+JEFFERSON,PA,55
+ROSCOMMON,MI,55
+57,MT,55
+Decatur,TN,55
+King William,VA,55
+Ford,KS,55
+Humphreys,TN,55
+Payette,ID,55
+WHITE,TN,55
+205,KY,55
+Lincoln,OR,55
+67,MO,55
+CF,AL,55
+OGEMAW,MI,55
+Douglas,WA,55
+Baxter,AR,55
+59,CA,55
+Hamblen,TN,55
+Benton,OR,55
+Marshall,TN,54
+403,TX,54
+051,UT,54
+VINTON,OH,54
+Meade,KY,54
+035,CO,54
+STEVENS,WA,54
+97,MT,54
+Perquimans,NC,54
+Pike,MO,54
+Perkins,SD,54
+Smyth,VA,54
+013,WY,54
+26,WI,54
+MT,AL,54
+MEADE,SD,54
+ROCKINGHAM,VA,54
+19,CO,54
+Butler,MO,54
+149,MO,54
+Montgomery,AR,54
+Indiana,PA,54
+MECKLENBURG,VA,54
+Alleghany,VA,54
+Benton,IA,53
+Prairie,MT,53
+JEFFERSON,MS,53
+Green,KY,53
+Cumberland,VA,53
+33,ID,53
+Clarke,GA,53
+Ottertail,MN,53
+Brooke,WV,53
+161,MO,53
+21,OK,53
+059,CO,53
+Erie,NY,53
+Lewis,MO,53
+199,NC,53
+Hockley,TX,53
+Carroll,IA,53
+Surry,VA,53
+ALLEGHENY,PA,53
+Stafford,KS,53
+Lewis,TN,52
+Hand,SD,52
+MONTMORENCY,MI,52
+Butte,SD,52
+CLAY,MS,52
+Mineral,MT,52
+Baraga,MI,52
+181,MO,52
+McMinn,TN,52
+Bremer,IA,52
+COCKE,TN,52
+79,CO,52
+009,AZ,52
+057,UT,52
+Sullivan,NY,52
+Essex,MA,52
+Warren,KY,52
+Jackson,TX,52
+129,MS,52
+33,NV,52
+MERRIMACK,NH,52
+Marshall,KY,52
+053,WA,52
+OKANOGAN,WA,52
+9,MT,52
+PLUMAS,CA,52
+43,MO,52
+Cochran,TX,51
+Allamakee,IA,51
+Greene,NY,51
+Nemaha,KS,51
+BLOUNT,TN,51
+Custer,SD,51
+Bristol,MA,51
+105,SD,51
+5,MS,51
+213,GA,51
+Turner,SD,51
+31,NM,51
+Fremont,IA,51
+King and Queen,VA,51
+Hutchinson,SD,51
+Big Horn,MT,51
+1,UT,51
+Laramie,WY,51
+83,CO,51
+Hancock,TN,51
+McCormick County,SC,51
+Grainger,TN,50
+Pierce,WA,50
+MONTGOMERY,AR,50
+53,CA,50
+83,CA,50
+Dutchess,NY,50
+Overton,TN,50
+55,MO,50
+047,NM,50
+Mecosta,MI,50
+137,GA,50
+Jefferson,NY,50
+Tripp,SD,50
+Baltimore,MD,50
+25,WI,50
+Stafford,VA,50
+43,CA,50
+65,MO,50
+Charlevoix,MI,50
+95,WI,50
+55,GA,50
+Columbia County,WA,49
+Guthrie,IA,49
+Weber,UT,49
+MS,AL,49
+87,ID,49
+POLK,MO,49
+CARTER,MO,49
+Kingman,KS,49
+029,WY,49
+DK,AL,49
+ST,AL,49
+Fleming,KY,49
+Livingston,KY,49
+Iosco,MI,49
+125,WI,49
+Davison,SD,49
+Nelson,KY,49
+121,AL,49
+Van Buren,TN,49
+93,MS,49
+COSHOCTON,OH,49
+22,WI,49
+51,UT,49
+Taylor,KY,49
+Menard,TX,49
+WARREN,TN,49
+MN,AL,49
+079,LA,49
+069,OR,48
+Worcester,MD,48
+Fayette,TN,48
+21,CO,48
+CUSTER,SD,48
+79,LA,48
+Logan,KY,48
+Marion,KS,48
+Mackinac,MI,48
+Colusa,CA,48
+GV,AL,48
+Butler,KY,48
+Delaware,IA,48
+Chautauqua,NY,48
+Saguache,CO,48
+061,MN,48
+Clarke              ,GA,48
+11,MT,48
+ROCKINGHAM,NH,48
+Montgomery,KY,48
+CHARLOTTE,VA,48
+ADAMS,OH,48
+089,OK,47
+Hamilton,TN,47
+3,UT,47
+119,CO,47
+MAURY,TN,47
+Storey,NV,47
+Cheyenne,CO,47
+Giles,VA,47
+Hennepin,MN,47
+033,NV,47
+Union,NJ,47
+257,GA,47
+HENRY,MO,47
+Clallam,WA,47
+163,VA,47
+Bear Lake,ID,47
+113,WI,47
+Piute,UT,46
+19,WI,46
+105,MO,46
+123,PA,46
+Finney,KS,46
+KALKASKA,MI,46
+McCook,SD,46
+005,UT,46
+Henrico,VA,46
+Broome,NY,46
+Goodhue,MN,46
+Houston,TN,46
+015,CA,46
+Ottawa,MI,46
+CARTER,TN,46
+31,UT,46
+Prince George's,MD,46
+51,OR,46
+ST CLAIR,MO,46
+HINDS,MS,46
+Winneshiek,IA,46
+CHEBOYGAN,MI,46
+Polk,OR,45
+FRANKLIN,MO,45
+87,MT,45
+HAMBLEN,TN,45
+POWHATAN,VA,45
+Putnam,NY,45
+25,ID,45
+CHESTER,PA,45
+Greenlee,AZ,45
+053,CA,45
+Hamilton,IA,45
+CLINTON,PA,45
+Floyd,IA,45
+PONTOTOC,MS,45
+Menifee,KY,45
+Jasper,MO,45
+Sequatchie,TN,45
+9,WA,45
+Whatcom,WA,45
+007,ID,45
+ELK,PA,44
+Chautauqua,KS,44
+013,WA,44
+Hickman,KY,44
+Taylor,IA,44
+Bullitt,KY,44
+29,ID,44
+Rains,TX,44
+Wayne,NY,44
+ATHENS,OH,44
+Snohomish,WA,44
+Santa Barbara,CA,44
+St. Francis,AR,44
+5,VA,44
+Clark,ID,44
+71,ID,44
+073,WA,44
+Oswego,NY,44
+COLUMBIA,PA,44
+MONTGOMERY,PA,44
+Caledonia,VT,44
+Appanoose,IA,44
+HR,AL,44
+Robertson,TN,43
+OVERTON,TN,43
+35,UT,43
+Keokuk,IA,43
+Floyd,VA,43
+Refugio,TX,43
+031,OR,43
+215,MO,43
+007,NV,43
+WILSON,TN,43
+149,AR,43
+Powhatan,VA,43
+223,MO,43
+Cass,IA,43
+Worth,MO,43
+RANKIN,MS,43
+UNION,MS,43
+Harding,NM,43
+045,WA,43
+Callaway,MO,43
+Mahaska,IA,43
+Sierra,CA,43
+COLUSA,CA,43
+Monroe,IL,43
+Clinton,PA,43
+McKenzie,ND,43
+Sherman,OR,43
+Adair,IA,43
+33,CA,42
+015,WA,42
+Kinney,TX,42
+Ouray,CO,42
+Kankakee,IL,42
+Bath,KY,42
+YORK,PA,42
+Brookings,SD,42
+Jefferson,ID,42
+075,MN,42
+LINCOLN,SD,42
+Monroe,MO,42
+407,TX,42
+Chester,PA,42
+9,CA,42
+Dekalb,TN,42
+Wilson,KS,42
+FAYETTE,TN,42
+Canyon,ID,42
+5,TX,42
+7,CA,42
+25,UT,42
+Harrison,MO,42
+LAFAYETTE,MS,41
+Kitsap County,WA,41
+31,OK,41
+Codington,SD,41
+Jackson,CO,41
+37,CO,41
+27,CA,41
+Labette,KS,41
+Maury,TN,41
+ET,AL,41
+Crittenden,KY,41
+PINAL,AZ,41
+Polk,IA,41
+Washington,IA,41
+Grant,WA,41
+GLADWIN,MI,41
+105,AR,41
+GREENE,MO,41
+073,OH,41
+Dyer,TN,41
+Addison,VT,41
+DA,AL,40
+Dawson,TX,40
+29,AL,40
+Skagit,WA,40
+Clinton,IA,40
+ALAMOSA,CO,40
+Garrard,KY,40
+Houghton,MI,40
+295,GA,40
+Rock Island,IL,40
+93,MO,40
+077,FL,40
+101,AR,40
+DELTA,MI,40
+087,ID,40
+Jackson,TN,40
+JACKSON,TN,40
+CHOCTAW,MS,40
+Marshall,IA,40
+23,UT,39
+NELSON,VA,39
+039,UT,39
+WYOMING,PA,39
+43,LA,39
+53,CO,39
+SCOTT,MS,39
+Rockbridge,VA,39
+King George,VA,39
+Edmunds,SD,39
+WARREN,PA,39
+171,TN,39
+Edmonson,KY,39
+HOCKING,OH,39
+067,MT,39
+Marion,KY,39
+Gilliam,OR,39
+Jackson,AR,39
+33,WY,38
+Buchanan,IA,38
+181,IL,38
+57,ID,38
+47,MT,38
+St. Francois,MO,38
+Fentress,TN,38
+Chittenden,VT,38
+Richland,LA,38
+005,NV,38
+027,NM,38
+Rooks,KS,38
+PRESQUE ISLE,MI,38
+Morgan,IL,38
+YAVAPAI,AZ,38
+Jefferson,WA,38
+Lyon,KY,38
+Pacific,WA,38
+MISSAUKEE,MI,38
+Fulton,KY,38
+103,CO,38
+Smith,TN,38
+Wayne,UT,38
+073,FL,38
+Adams,MS,37
+Gasconade,MO,37
+Borden,TX,37
+Shelby,IA,37
+Franklin,VT,37
+Pope,IL,37
+057,MT,37
+59,MS,37
+OKTIBBEHA,MS,37
+Marshall,SD,37
+Moore,TN,37
+FLUVANNA,VA,37
+93,MT,37
+HICKORY,MO,37
+27,WA,37
+Dubuque,IA,37
+117,IN,37
+77,FL,37
+Washington,NY,37
+28,NM,37
+Wythe,VA,37
+199,KY,37
+053,MI,37
+083,CA,37
+Alger,MI,37
+065,MO,37
+Leflore,MS,37
+Essex,NJ,37
+Hudson,NJ,37
+WILKINSON,MS,36
+HS,AL,36
+WARREN,VA,36
+LOUISA,VA,36
+WEBSTER,MO,36
+COWLITZ,WA,36
+JACKSON,AR,36
+Clay,IL,36
+Beadle,SD,36
+MACON,MO,36
+47,UT,36
+JASPER,MO,36
+Steuben,NY,36
+59,TN,36
+455,TX,36
+Fayette,GA,36
+031,MN,36
+Barton,MO,36
+FREDERICK,VA,36
+PANOLA,MS,36
+POTTER,PA,36
+051,AR,36
+YUMA,CO,36
+009,WY,36
+57,CO,36
+CALHOUN,MS,36
+APPOMATTOX,VA,36
+Benzie,MI,36
+195,VA,36
+Dauphin,PA,36
+GOOCHLAND,VA,36
+001,NM,36
+CHIPPEWA,MI,36
+041,CO,35
+Rutland,VT,35
+WAYNE,MO,35
+29,CO,35
+YALOBUSHA,MS,35
+PERKINS,SD,35
+45,WY,35
+Davidson,TN,35
+DAVIS,UT,35
+Larue,KY,35
+21,UT,35
+Quitman,MS,35
+013,ID,35
+197,KY,35
+015,CO,35
+011,WY,35
+Loudoun,VA,35
+31,WA,35
+Morris,KS,35
+CEDAR,MO,35
+Brule,SD,35
+Warren,IA,35
+MCDONALD,MO,35
+Moody,SD,35
+171,VA,35
+OCEANA,MI,34
+Stearns,MN,34
+Anderson,TN,34
+003,FL,34
+MADISON,AR,34
+049,CO,34
+Caldwell,KY,34
+Aurora,SD,34
+GRENADA,MS,34
+45,VA,34
+Kittitas C,WA,34
+Pope,MN,34
+Ralls,MO,34
+Carter,TN,34
+Sangamon,IL,34
+075,MT,34
+Marion,IA,34
+173,NC,34
+McPherson,SD,34
+87,SC,34
+Salt Lake,UT,34
+Mason C,WA,34
+Muscogee,GA,34
+Meigs,TN,33
+Worth,IA,33
+45,UT,33
+Howard,IA,33
+Camas,ID,33
+Marshall,KS,33
+Barnes,ND,33
+103,NC,33
+009,UT,33
+COOPER,MO,33
+1,IL,33
+051,CO,33
+7,MN,33
+Asotin County,WA,33
+Crawford,IA,33
+ARENAC,MI,33
+Colorado,TX,33
+Lackawanna,PA,33
+57,UT,33
+Montgomery,MD,33
+031,ID,33
+BUCKINGHAM,VA,33
+Oneida,NY,33
+Routt,CO,33
+Del Norte,CA,33
+Mellette,SD,33
+Vernon,MO,32
+057,NM,32
+011,WA,32
+MOHAVE,AZ,32
+045,MT,32
+Custer,CO,32
+CHESHIRE,NH,32
+163,TN,32
+13,MT,32
+San Benito,CA,32
+CLEARWATER,ID,32
+LUCE,MI,32
+023,FL,32
+DICKINSON,MI,32
+MD,AL,32
+BUCKS,PA,32
+Chase,KS,32
+Craighead,AR,32
+471,TX,32
+LYCOMING,PA,32
+NOXUBEE,MS,32
+021,AZ,32
+TUSCARAWAS,OH,32
+033,CA,32
+405,TX,32
+LOUDON,TN,32
+Parmer,TX,31
+Suffolk,VA,31
+Benton,WA,31
+Newaygo,MI,31
+11,OR,31
+19,UT,31
+CARROLL,MO,31
+SUSQUEHANNA,PA,31
+MUSKEGON,MI,31
+Lincoln,MO,31
+Ferry C,WA,31
+Ellsworth,KS,31
+Randolph,MO,31
+025,UT,31
+Essex,NY,31
+PIMA,AZ,31
+Sully,SD,31
+053,NM,31
+CULPEPER,VA,31
+Stark,ND,31
+FRANKLIN,MS,31
+KNOX,OH,31
+Loudon,TN,31
+Cattaraugus,NY,31
+71,SC,31
+031,NV,31
+GLENN,CA,31
+CLAIBORNE,MS,31
+JEFFERSON,OH,31
+LOWNDES,MS,31
+083,WI,31
+Snyder,PA,31
+Dade,MO,31
+067,WA,31
+9,OH,31
+Clayton,IA,31
+Blount,TN,31
+007,WY,31
+LEE,MS,31
+MCKEAN,PA,31
+Thurston C,WA,31
+91,CO,31
+Scott,IA,31
+027,CA,30
+075,NC,30
+Lancaster,PA,30
+55,UT,30
+Elbert,CO,30
+Ballard,KY,30
+Somerset,PA,30
+Washington,TN,30
+Teton,WY,30
+497,TX,30
+093,MO,30
+Gallatin,MT,30
+009,CA,30
+EMERY,UT,30
+Kent,TX,30
+Bucks,PA,30
+Crane,TX,30
+OSCEOLA,MI,30
+281,GA,30
+105,IN,30
+Wahkiakum County,WA,30
+CLARKE,VA,30
+039,NC,30
+81,ID,30
+45,NE,30
+27,AL,30
+MIFFLIN,PA,30
+Cocke,TN,30
+Daviess,KY,30
+419,TX,30
+Cameron,LA,30
+Montgomery,TN,30
+Delaware,NY,30
+King,WA,29
+049,NC,29
+049,NM,29
+Williamson,TN,29
+SUMNER,TN,29
+41,CO,29
+Bath,VA,29
+DOUGLAS,SD,29
+BUTLER,PA,29
+Yoakum,TX,29
+CAMERON,PA,29
+STRAFFORD,NH,29
+Mathews,VA,29
+053,ND,29
+MORGAN,OH,29
+041,WI,29
+Obion,TN,29
+071,AR,29
+077,CO,29
+MADISON,VA,29
+139,VA,29
+Gregory,SD,29
+Linn,KS,29
+Ward,ND,29
+3,WY,29
+027,AL,29
+BACA,CO,29
+145,OH,29
+BELMONT,OH,29
+WASHINGTON,TN,29
+KLICKITAT,WA,28
+093,MT,28
+LONOKE,AR,28
+013,MT,28
+Stanislaus,CA,28
+Queen Annes,MD,28
+Orange,VT,28
+MARIES,MO,28
+SNYDER,PA,28
+Bradley,TN,28
+Roberts,SD,28
+339,TX,28
+Foard,TX,28
+005,CA,28
+ADAMS,PA,28
+Cakdwell,KY,28
+Lake,IL,28
+23,VA,28
+CARROLL,NH,28
+21,VA,28
+CHICKASAW,MS,28
+085,CO,28
+23,NV,28
+LD,AL,28
+WEXFORD,MI,28
+43,WA,27
+Walla Walla County,WA,27
+Dodge,WI,27
+019,ID,27
+91,MO,27
+ANTRIM,MI,27
+MONROE,OH,27
+79,AL,27
+033,MI,27
+FULTON,PA,27
+Lee,IA,27
+MONTGOMERY,MS,27
+Sullivan,PA,27
+93,SD,27
+51,AR,27
+NOTTOWAY,VA,27
+Adair,MO,27
+Bland,VA,27
+237,KY,27
+Merced,CA,27
+15,CO,27
+KITTITAS,WA,27
+Lehigh,PA,27
+41,MS,27
+45,CO,26
+COOS,NH,26
+Morton,ND,26
+WASHINGTON,OH,26
+MASON,WA,26
+Wagoner,OK,26
+161,MS,26
+Pike,IL,26
+71,AR,26
+GRAFTON,NH,26
+Fulton South,GA,26
+043,ID,26
+Ontonagon,MI,26
+CAMBRIA,PA,26
+031,NC,26
+Fremont,ID,26
+Santa Clara,CA,26
+Hyde,SD,26
+169,MO,26
+Chouteau,MT,26
+EAGLE,CO,26
+ELKO,NV,26
+41,ID,26
+21,CA,26
+Cape Girardeau,MO,26
+Douglas,SD,26
+069,LA,26
+Windsor,VT,26
+091,MO,26
+Carroll,OH,26
+STONE,MO,26
+019,TN,26
+Carlisle,KY,26
+015,OR,26
+Columbiana,OH,26
+BLAIR,PA,26
+BROOKINGS,SD,25
+Adams,IL,25
+Jackson,SD,25
+SHENANDOAH,VA,25
+Huntingdon,PA,25
+Kiowa,CO,25
+051,NM,25
+007,CA,25
+IRON,MI,25
+CHEYENNE,CO,25
+COLUMBIANA,OH,25
+JUNIATA,PA,25
+Windham,VT,25
+DADE,MO,25
+Butler,IA,25
+033,WY,25
+043,MO,25
+Grant,SD,25
+047,SD,25
+Walla Walla,WA,25
+Perry,TN,25
+Webster,IA,25
+Coahoma,MS,25
+Pitkin,CO,25
+Otsego,NY,25
+Rice,KS,25
+Wright,MN,25
+031,NE,25
+33,MI,24
+3,IL,24
+Carroll,MO,24
+123,GA,24
+MACON,TN,24
+45,ID,24
+Pratt,KS,24
+189,KY,24
+35,MO,24
+057,WA,24
+Saline,MO,24
+MARQUETTE                                         ,MI,24
+Chelan C,WA,24
+083,AR,24
+Cerro Gordo,IA,24
+Madison,MT,24
+Pend Oreille C,WA,24
+059,CA,24
+Madison,ID,24
+Gibson,TN,24
+045,WY,24
+043,UT,24
+Broadwater,MT,24
+Comanche,KS,24
+Henderson,KY,24
+Clark C,WA,24
+White,TN,24
+027,WA,24
+Jefferson,IA,24
+Cowlitz C,WA,24
+011,SC,24
+Tucker,WV,24
+Washington,OR,24
+Isabella,MI,24
+Hanson,SD,24
+Alameda,CA,24
+237,GA,23
+053,CO,23
+Glenn,CA,23
+Orange,CA,23
+Osceola,IA,23
+Ontario,NY,23
+049,OR,23
+Ida,IA,23
+Dickinson,IA,23
+007,ND,23
+23,MO,23
+COCONINO,AZ,23
+Stillwater,MT,23
+87,NC,23
+Anne Arundel,MD,23
+Harding,SD,23
+GRAND TRAVERSE,MI,23
+Niagara,NY,23
+McMullen,TX,23
+McLean,KY,23
+7,WY,23
+MILLER,MO,23
+013,UT,23
+Pottawattamie,IA,23
+Lonoke,AR,23
+165,KY,23
+311,GA,23
+Grand Forks,ND,23
+Clinton,MO,23
+057,OR,23
+Carroll,MD,23
+49,OK,23
+LaSalle,IL,23
+Warren,MS,23
+Linn,MO,23
+ALLEGAN,MI,23
+SMITH,TN,23
+Sutton,TX,23
+East Taos,NM,22
+87,ND,22
+WORTH,MO,22
+Sioux,IA,22
+JoDavies,IL,22
+BUCHANAN,MO,22
+21,NV,22
+510,NV,22
+INDIANA,PA,22
+031,WY,22
+Rabun               ,GA,22
+015,VA,22
+MONTOUR,PA,22
+Franklin,TN,22
+JOHNSON,TN,22
+23,MT,22
+26,OR,22
+71,MS,22
+123,IN,22
+Richmond,VA,22
+jerauld,SD,22
+Yuma,CO,22
+Federal Land,NC,22
+Silver Bow,MT,22
+Morrow,OR,22
+Lafayette,MO,22
+19,WY,22
+LEBANON,PA,22
+Montgomery,IA,22
+197,IL,22
+Union,TN,22
+051,OR,22
+LUNENBURG,VA,22
+051,KY,22
+Russell,KS,22
+Blue Earth,MN,22
+Yakima C,WA,22
+STOREY,NV,22
+Clay,KS,21
+Bennington,VT,21
+91,TN,21
+Schoharie,NY,21
+PRINCE_EDWARD,VA,21
+ROBERTSON,TN,21
+21,NC,21
+Franklin,NY,21
+Franklin,LA,21
+Foster,ND,21
+Wyoming,NY,21
+Gogebic,MI,21
+St Clair,IL,21
+35,CO,21
+MERCER,PA,21
+DELTA,CO,21
+59,CO,21
+Stevens,KS,21
+Coshocton,OH,21
+El Paso,TX,21
+9,VA,21
+BUCHANAN,VA,21
+GASCONADE,MO,21
+165,NE,21
+Garfield County,WA,21
+OSCODA,MI,21
+3,WI,21
+MCPHERSON,SD,21
+PULASKI,MO,21
+107,MT,21
+Mineral,NV,21
+17,VA,21
+Ziebach,SD,21
+GREENE,TN,21
+055,MO,20
+Monroe,AR,20
+035,UT,20
+CUMBERLAND,PA,20
+Bollinger,MO,20
+Macon,MO,20
+Spink,SD,20
+025,IN,20
+Dakota,MN,20
+Cumberland,PA,20
+FR,AL,20
+cheshire,NH,20
+Washington,CO,20
+Sussex,DE,20
+Conejos,CO,20
+BROWN,SD,20
+Potter,PA,20
+TANEY,MO,20
+Lycoming,PA,20
+045,CO,20
+Jerauld,SD,20
+IMPERIAL,CA,20
+CHARLES MIX,SD,20
+Allegany,NY,20
+Ochiltree,TX,20
+003,UT,20
+CAROLINE,VA,20
+Union,PA,20
+Franklin,PA,20
+15,NV,20
+129,MI,20
+Tioga,PA,20
+Deuel,SD,20
+031,NM,20
+UNION,SD,20
+Clay,SD,20
+HARRISON,MO,20
+047,MT,20
+Davis,UT,20
+Upton,TX,20
+Hancock,KY,20
+005,ID,20
+Corson,SD,20
+95,MT,20
+033,AR,20
+Mills,IA,20
+Kandiyohi,MN,20
+15,OR,19
+Treasure,MT,19
+Meade,KS,19
+Hardin,IA,19
+021,UT,19
+67,MS,19
+023,WA,19
+APACHE,AZ,19
+ATCHISON,MO,19
+Ransom,ND,19
+003,WY,19
+041,MI,19
+019,NV,19
+Humphreys,MS,19
+San Juan,CO,19
+077,IL,19
+Glasscock,TX,19
+VENTURA,CA,19
+Grundy,IL,19
+BENT,CO,19
+Howard,MD,19
+Franklin,ID,19
+179,TN,19
+129,KS,19
+Schenectady,NY,19
+Ray,MO,19
+Valley,MT,19
+Mifflin,PA,19
+CLALLAM,WA,19
+Northampton,PA,19
+Mitchell,IA,19
+33,AR,19
+107,FL,19
+109,MS,19
+53,PA,19
+105,AL,19
+RAY,MO,19
+1,MI,19
+Pierce,ND,19
+Putnam,TN,19
+Johnson,IL,19
+Dekalb,GA,19
+West Feliciana,LA,19
+055,UT,19
+49,WA,19
+PAGE,VA,18
+39,MS,18
+Atchison,KS,18
+DAVIESS,MO,18
+45,MT,18
+Saint Louis,MO,18
+DeWitt,TX,18
+Gilpin,CO,18
+FULTON,OH,18
+PEND OREILLE,WA,18
+Logan,IL,18
+Lewis C,WA,18
+King,TX,18
+003,WA,18
+RAPPAHANNOCK,VA,18
+BEAVER,PA,18
+121,NC,18
+OZ,MO,18
+TURNER,SD,18
+HOLMES,OH,18
+Kingsbury,SD,18
+Stanley,SD,18
+HARRISON,OH,18
+023,NC,18
+Columbia,WA,18
+Montcalm,MI,18
+Clark,MO,18
+Tioga,NY,18
+Jefferson Davis,LA,18
+Grant,KS,18
+Manistee,MI,18
+129,KY,18
+Wyoming,PA,18
+Tuscola,MI,18
+Madison,IA,18
+Calhoun,IA,18
+83,ID,18
+CHAFFEE,CO,18
+Hettinger,ND,18
+111,TX,18
+Muscatine,IA,18
+33,UT,18
+Emmet,IA,18
+CHELAN,WA,18
+BARRY,MI,18
+133,GA,18
+Esmeralda,NV,18
+Dallas,IA,18
+83,WV,18
+Ottawa,KS,17
+Vermillion,IL,17
+Tuscarawas,OH,17
+71,WV,17
+047,MS,17
+McCone,MT,17
+CUMBERLAND,VA,17
+MONTGOMERY,TN,17
+75,IL,17
+Madison,NY,17
+25,IN,17
+Hillsboro,NH,17
+045,UT,17
+Marion,MO,17
+CLAY,TN,17
+Suffolk City,VA,17
+57,IL,17
+75,WV,17
+84,IL,17
+035,MS,17
+029,TN,17
+Dewey,SD,17
+043,CA,17
+045,CA,17
+Norton,KS,17
+Chicot,AR,17
+McLean,IL,17
+105,VA,17
+023,MT,17
+LATAH,ID,17
+Schuyler,MO,17
+Day,SD,17
+HARDING,SD,17
+19,NV,17
+Golden Valley,MT,17
+015,UT,17
+BONNER,ID,17
+CONEJOS,CO,17
+Lamoille,VT,17
+LOUDOUN,VA,17
+CHEATHAM,TN,17
+Montgomery,MO,17
+LYMAN,SD,17
+007,MN,17
+Montgomery,PA,17
+009,WA,17
+MCCOOK,SD,17
+Bedford,PA,17
+Livingston,MI,17
+Russell,KY,17
+Livingston,NY,17
+Cloud,KS,17
+LAKE,MI,17
+Franklin,IL,17
+Greene,IA,16
+029,AL,16
+SCHOOLCRAFT,MI,16
+Greene,TN,16
+079,CO,16
+ANDREW,MO,16
+Hamilton,NY,16
+41,OR,16
+241,TX,16
+41,MI,16
+SUMMIT,CO,16
+SUSSEX,DE,16
+ARCHULETA,CO,16
+129,GA,16
+SCOTT,MO,16
+Somervell,TX,16
+Herkimer,NY,16
+Mercer,ND,16
+159,GA,16
+023,NV,16
+ST FRANCIS,AR,16
+11,NC,16
+Rutherford,TN,16
+Fulton South        ,GA,16
+St.Clair,IL,16
+097,MI,16
+Putnam,IL,16
+Clay,MN,16
+ORANGE,VA,16
+NOBLE,OH,16
+Ogle,IL,16
+SALINE,MO,16
+009,OH,16
+157,MS,16
+Columbia,NY,16
+Leflore,OK,16
+Franklin,WA,16
+PRAIRIE,AR,16
+Warren,TN,16
+019,SC,16
+Washington,MS,16
+093,SD,16
+York,VA,16
+035,MO,16
+011,OR,16
+YAKIMA,WA,16
+Doniphan,KS,16
+EMMET,MI,16
+Jasper,IA,16
+003,IL,16
+Craig,VA,16
+MECOSTA,MI,16
+045,NE,16
+JEFFERSON,TN,16
+Bates,MO,16
+Santa Cruz,CA,16
+Terrell,TX,16
+Sumner,TN,16
+7,AL,16
+137,AR,15
+UNION,PA,15
+Pocahontas,IA,15
+STODDARD,MO,15
+Jefferson,WI,15
+97,MI,15
+Arkansas,AR,15
+McKean,PA,15
+Stephenson,IL,15
+Bond,IL,15
+BUTTE,SD,15
+CALLAWAY,MO,15
+47,AR,15
+001,UT,15
+123,MO,15
+Norman,MN,15
+Sanborn,SD,15
+Solano,CA,15
+Van Buren,IA,15
+13,NV,15
+Saline,IL,15
+Sweet Grass,MT,15
+SAN FRANCISCO,CA,15
+007,WI,15
+Ventura,CA,15
+075,WV,15
+313,GA,15
+77,IL,15
+Belmont,OH,15
+Thomas,KS,15
+Perry,MO,15
+85,SD,15
+019,WY,15
+CUSTER,CO,15
+169,VA,15
+009,MT,15
+Todd,KY,15
+Prince Georges,MD,15
+sully,SD,15
+033,ID,15
+53,OH,15
+079,AL,15
+Washington,VT,15
+51,VA,14
+Reeves,TX,14
+029,ID,14
+Will,IL,14
+129,AR,14
+MONITEAU,MO,14
+Owen,KY,14
+15,NM,14
+Chesapeake City,VA,14
+Columbia,PA,14
+005,AR,14
+069,IL,14
+PIERCE,WA,14
+BELKNAP,NH,14
+Adams,PA,14
+027,CO,14
+45,IL,14
+Kossuth,IA,14
+Scotland,MO,14
+Davis,IA,14
+SULLIVAN,PA,14
+Knox,TN,14
+FAIRFIELD,OH,14
+Kit Carson,CO,14
+East Baton Rouge,LA,14
+171,NE,14
+005,VA,14
+Lapeer,MI,14
+Saint Charles,MO,14
+37,WY,14
+Haywood,TN,14
+033,CO,14
+025,ID,14
+Orleans,VT,14
+Seneca,NY,14
+Henry,KY,14
+Cayuga,NY,14
+Highland,VA,14
+Grant,ND,14
+021,CA,14
+83,AR,14
+Madison,TN,14
+CRAIGHEAD,AR,14
+Jefferson,OH,14
+Barren,KY,14
+SKAGIT,WA,14
+Grundy,IA,14
+THURSTON,WA,14
+047,AR,14
+Comanche,OK,14
+125,AR,14
+IOSCO,MI,14
+Smith,KS,14
+Leelanau,MI,14
+Fulton,NY,14
+Kiowa,KS,14
+Scott,MN,14
+Morgan,CO,13
+Crockett,TN,13
+ELBERT,CO,13
+31,WY,13
+Grant,KY,13
+Washington,KS,13
+Van Buren,MI,13
+Alamosa,CO,13
+071,ID,13
+St. Clair,MI,13
+AMELIA,VA,13
+AMHERST,VA,13
+Jones,SD,13
+CROWLEY,CO,13
+009,MS,13
+Jackson,MO,13
+MARICOPA,AZ,13
+015,NV,13
+Chariton,MO,13
+Cavalier,ND,13
+Winnebago,WI,13
+139,MS,13
+053,OH,13
+39,AL,13
+099,MT,13
+Asotin,WA,13
+WASHOE,NV,13
+71,IN,13
+Lee,IL,13
+Pierce C,WA,13
+Pawnee,KS,13
+RANDOLPH,MO,13
+75,SD,13
+Winnebago,IA,13
+011,CA,13
+OTSEGO                                            ,MI,13
+Peoria,IL,13
+Ionia,MI,13
+Olmsted,MN,13
+019,CO,13
+Walworth,SD,13
+097,CO,13
+CRAWFORD                                          ,MI,13
+Pickett,TN,13
+131,MI,12
+29,MS,12
+Graham,KS,12
+Woodford,IL,12
+073,SC,12
+Fulton,PA,12
+SANTA CRUZ,AZ,12
+Monroe,IA,12
+Mason,IL,12
+115,GA,12
+Mason,MI,12
+033,UT,12
+Shelby,KY,12
+Grant,MN,12
+Jim Hogg,TX,12
+165,IL,12
+65,CO,12
+Grays Harbor C,WA,12
+087,IL,12
+065,CO,12
+015,AL,12
+Orleans,LA,12
+5,AR,12
+Clear Creek,CO,12
+Contra Costa,CA,12
+Sullivan,TN,12
+Brown,MN,12
+99,MT,12
+day,SD,12
+Clinton,IL,12
+Newport,RI,12
+Juniata,PA,12
+PHELPS,MO,12
+FAUQUIER,VA,12
+CLARE                                             ,MI,12
+Garfield,WA,12
+041,ID,12
+59,NM,12
+LEE,VA,12
+Park,MT,12
+Okmulgee,OK,12
+Lawrence,IL,12
+29,WA,12
+Cumberlin,IL,12
+15,AL,12
+York,PA,12
+LEWIS,WA,12
+butte,SD,12
+021,NV,12
+GLADWIN                                           ,MI,12
+Tazewell,IL,12
+HOUGHTON,MI,12
+Carroll,IL,12
+GRANT,ND,12
+31,WV,12
+027,NC,12
+WASHINGTON,CO,12
+Unicoi,TN,12
+Cheyenne,KS,12
+Nelson,ND,11
+hyde,SD,11
+121,VA,11
+Ringgold,IA,11
+095,MT,11
+Black Hawk,IA,11
+107,TN,11
+Westmoreland,PA,11
+12,OK,11
+Orleans,NY,11
+Republic,KS,11
+Barber,KS,11
+Ramsey,MN,11
+Adams,IA,11
+007,AL,11
+117,SD,11
+Putnam,MO,11
+Fallon,MT,11
+093,IN,11
+Adams,ND,11
+143,KY,11
+147,TX,11
+11,UT,11
+hutchinson,SD,11
+BAY,MI,11
+Pettis,MO,11
+Clark,SD,11
+Seward,KS,11
+97,CO,11
+47,CO,11
+71,SD,11
+89,NC,11
+Turner County,SD,11
+LIVINGSTON,MO,11
+63,SD,11
+STANLEY,SD,11
+ALGER,MI,11
+061,MI,11
+LICKING,OH,11
+SNOHOMISH,WA,11
+Clallam C,WA,11
+Keweenaw,MI,11
+Mitchell,KS,11
+VALLEY,ID,11
+Harper,KS,11
+ST FRANCOIS,MO,11
+9,MO,11
+027,MT,11
+Woodruff,AR,11
+031,WA,11
+Christian,IL,11
+Meagher,MT,11
+Lebanon,PA,11
+Hudspeth,TX,11
+79,IL,11
+045,ID,11
+SULLIVAN,NH,11
+83,PA,11
+071,MI,11
+61,MS,11
+Bristol,RI,10
+Cobb,GA,10
+moody,SD,10
+33,ND,10
+Northampton,VA,10
+099,NC,10
+Sanilac,MI,10
+65,KY,10
+ST CHARLES,MO,10
+Blackhawk,IA,10
+GRAYS HARBOR,WA,10
+Des Moines,IA,10
+ERIE,PA,10
+37,WI,10
+ST. CLAIR,MO,10
+MACKINAC,MI,10
+Clay,IA,10
+HUGHES,SD,10
+TATE,MS,10
+69,IL,10
+Crowley,CO,10
+San Juan,WA,10
+CLARK,WA,10
+BENEWAH,ID,10
+MONROE,AR,10
+079,CA,10
+Perry,PA,10
+Dickey,ND,10
+119,WI,10
+Elk,PA,10
+Hughes,SD,10
+057,CO,10
+Virginia Beach,VA,10
+Tompkins,NY,10
+Bennett,SD,10
+Ripley,IN,10
+023,UT,10
+Boone,IA,10
+071,IN,10
+Tipton,TN,10
+Grand Forks County,ND,10
+3,MI,10
+Bay,MI,10
+Hinsdale,CO,10
+Madison,IL,10
+Holmes,OH,10
+Dukes,MA,10
+Douglas County,WA,10
+127,MI,10
+049,WA,10
+Knox,MO,10
+Perry,IL,10
+Logan,CO,10
+Guernsey,OH,10
+45,CA,10
+Miner,SD,10
+221,KY,10
+Yates,NY,10
+7,UT,10
+Prince William,VA,10
+TROUSDALE,TN,10
+SKAMANIA,WA,10
+McIntosh,ND,9
+77,ID,9
+Fulton,OH,9
+9,CO,9
+DAGGETT,UT,9
+011,UT,9
+003,NH,9
+IRON,MO,9
+Sheridan,KS,9
+77,AR,9
+CHICOT,AR,9
+Osage,OK,9
+Trousdale,TN,9
+Livingston,MO,9
+Teton,ID,9
+Wahkiakum,WA,9
+067,MO,9
+King C,WA,9
+BARAGA,MI,9
+CHARITON,MO,9
+Wright,IA,9
+031,UT,9
+011,NC,9
+87,IL,9
+Richland,IL,9
+Buena Vista,IA,9
+Pacific C,WA,9
+PETTIS,MO,9
+Burleigh,ND,9
+Dawson,MT,9
+SALT LAKE,UT,9
+LEWIS,MO,9
+Poinsett,AR,9
+Golden Valley,ND,9
+015,NM,9
+Virginia Beach City,VA,9
+Griggs,ND,9
+lyman,SD,9
+FERRY,WA,9
+47,PA,9
+175,KY,9
+151,NC,9
+CARROLL,VA,9
+RUTHERFORD,TN,9
+Multnomah,OR,9
+041,OR,9
+68,IL,9
+AUGUSTA,VA,9
+071,WV,9
+Montgomery,NY,9
+Scott,KY,9
+BOISE,ID,9
+Lake,CO,9
+Essex,VT,9
+43,WY,9
+CODINGTON,SD,9
+Alexander,IL,9
+Cass,ND,9
+GREENE,VA,9
+119,LA,9
+Skagit C,WA,9
+WAYNE,PA,9
+043,CO,9
+Nicollet,MN,9
+Stephens,OK,9
+Haakon,SD,9
+Island,WA,9
+woodford,IL,9
+Allen,KY,9
+099,WI,9
+127,OH,9
+ST LOUIS,MO,9
+Mercer,KY,9
+65,ID,9
+Union,KY,9
+BENZIE,MI,9
+Jewell,KS,8
+MOORE,TN,8
+IDAHO,ID,8
+69,LA,8
+Scott,MO,8
+Rapides-6 (3),LA,8
+livingston,IL,8
+Avoyelles,LA,8
+YAZOO,MS,8
+62,IL,8
+FOREST,PA,8
+ISABELLA,MI,8
+Jackson,IL,8
+Susquehanna,PA,8
+Jefferson,PA,8
+San Mateo,CA,8
+Logan,ND,8
+Linn,IA,8
+MENOMINEE                                         ,MI,8
+043,WA,8
+JEFFERSON,WA,8
+007,MT,8
+029,CO,8
+Roger Mills,OK,8
+Rolette,ND,8
+Buchanan,MO,8
+CALDWELL,MO,8
+079,OH,8
+Caldwell,MO,8
+Sullivan,MO,8
+CLINTON,MO,8
+UNICOI,TN,8
+Meeker,MN,8
+50,IL,8
+1,ID,8
+Gentry,MO,8
+CHARLEVOIX,MI,8
+003,WI,8
+197,VA,8
+HAYWOOD,TN,8
+153,MI,8
+St. Clair,IL,8
+Snohomish C,WA,8
+179,TX,8
+SHOSHONE,ID,8
+1,MS,8
+Acadia,LA,8
+47,SC,8
+AURORA,SD,8
+009,MO,8
+DELTA                                             ,MI,8
+071,WA,8
+ARKANSAS,AR,8
+11,KY,8
+PITTSYLVANIA,VA,8
+OTTAWA,MI,8
+CHARLES CITY,VA,8
+WILLIAMSON,TN,8
+Kent,MI,8
+87,AL,8
+097,MT,8
+GLOUCESTER,VA,8
+morton,ND,8
+Simpson,KY,8
+Sherman,KS,8
+Clay,MO,8
+047,CO,8
+229,MO,8
+021,CO,8
+005,TX,8
+QUITMAN,MS,8
+33,NM,8
+LINN,MO,7
+Benson,ND,7
+055,CO,7
+TELLER,CO,7
+56,IL,7
+DAY,SD,7
+Kalamazoo,MI,7
+Ellott,KY,7
+sargent,ND,7
+009,CO,7
+Wibaux,MT,7
+KEWEENAW,MI,7
+Prairie,AR,7
+DICKINSON                                         ,MI,7
+49,IL,7
+101,CO,7
+DEKALB,MO,7
+Loving,TX,7
+Plymouth,IA,7
+Piatt,IL,7
+Sioux,ND,7
+Chippewa,MN,7
+Knox,OH,7
+Jo Davies,IL,7
+Delaware,PA,7
+53,AL,7
+11,CA,7
+59,SC,7
+11,NV,7
+Skamania C,WA,7
+Calumet,WI,7
+PRINCE_WILLIAM,VA,7
+047,PA,7
+Kings,CA,7
+107,AR,7
+TAZEWELL,VA,7
+Cross,AR,7
+LAWR,OH,7
+65,IL,7
+RICHLAND,OH,7
+Bracken,KY,7
+167,OH,7
+Waseca,MN,7
+BARTON,MO,7
+27,CO,7
+003,SC,7
+019,UT,7
+023,MO,7
+brown,SD,7
+Richland,ND,7
+San Juan C,WA,7
+Oliver,ND,7
+ADAMS,MS,7
+Mineral,CO,7
+NODAWAY,MO,7
+MOODY,SD,7
+087,MT,7
+ALCONA                                            ,MI,7
+Rush,KS,7
+Riley County,KS,7
+Creek,OK,7
+Henry,IA,7
+WOODRUFF,AR,7
+031,WV,7
+021,NC,7
+McHenry,ND,7
+GREENE,AR,7
+McIntosh,OK,7
+065,SC,7
+CLAY,SD,7
+Hancock,IA,7
+Franklin,KY,7
+141,AR,7
+Ross,OH,7
+Noble,OH,7
+25,WV,7
+73,ND,7
+Union,IL,7
+JONES,SD,7
+187,VA,7
+Butler,PA,7
+edmunds,SD,7
+Vinton,OH,7
+071,SC,7
+Warren,PA,7
+159,MS,7
+MIDLAND                                           ,MI,7
+NEW MADRID,MO,7
+WARREN,MS,7
+Gwinnett North,GA,7
+29,UT,7
+125,AL,7
+Faulk,SD,7
+SCOTT,VA,7
+McDonough,IL,6
+Clark,KS,6
+029,WA,6
+161,TN,6
+17,MS,6
+169,GA,6
+Stevens,MN,6
+081,ID,6
+Venango,PA,6
+Desha,AR,6
+003,OR,6
+Potter,SD,6
+053,PA,6
+WISE,VA,6
+McHenry,IL,6
+Hamlin,SD,6
+Phillips,CO,6
+005,MS,6
+21,VT,6
+LaMoure,ND,6
+Greene,AR,6
+HAAKON,SD,6
+SCHUYLER,MO,6
+YUMA,AZ,6
+003,VT,6
+Daviess,MO,6
+Adams,WA,6
+SPOTSYLVANIA,VA,6
+HENRY,VA,6
+Rock,WI,6
+Lawrence,IN,6
+Big Stone,MN,6
+Ness,KS,6
+Whatcom C,WA,6
+LYON,NV,6
+Meigs,OH,6
+028,NM,6
+Cass,MO,6
+Lane,KS,6
+Gallatin,KY,6
+ALPENA                                            ,MI,6
+173,VA,6
+Williams,ND,6
+SCHOOLCRAFT                                       ,MI,6
+211,TX,6
+lincoln,SD,6
+083,ID,6
+Huron,MI,6
+71,WA,6
+017,VA,6
+BURLEIGH,ND,6
+PUTNAM,MO,6
+037,FL,6
+IRON                                              ,MI,6
+CRAWFORD,PA,6
+27,MT,6
+31,SD,6
+Los Alamos,NM,6
+Washtenaw,MI,6
+beadle,SD,6
+59,IL,6
+125,VA,6
+087,ND,6
+Lyon,MN,6
+037,WI,6
+JACKSON,SD,6
+FRANKLIN,VA,6
+MADISON,MO,6
+POTTAWATOMIE,KS,6
+CROCKETT,TN,6
+RUSSELL,VA,6
+7,NH,6
+Schuyler,NY,6
+67,IL,6
+PICKETT,TN,6
+Jackson,MI,6
+BOUNDARY,ID,6
+Jefferson,KY,6
+059,NM,6
+043,NC,6
+Brown,WI,6
+Lincoln,KS,6
+Audubon,IA,6
+23,NM,6
+85,MS,6
+spink,SD,6
+Bedford,TN,6
+Oakland,MI,6
+55,WA,6
+82,IL,6
+Carver,MN,6
+Perry,IN,6
+23,ID,6
+055,GA,6
+Chenango,NY,6
+KOOTENAI,ID,6
+Sacramento,CA,6
+Harrison,OH,6
+Dunn,WI,6
+TIPTON,TN,6
+77,ND,6
+79,CA,6
+Hodgeman,KS,6
+071,SD,5
+011,MT,5
+041,MS,5
+083,PA,5
+WHATCOM,WA,5
+053,AL,5
+mercer,ND,5
+067,MS,5
+003,MI,5
+ROSCOMMON                                         ,MI,5
+Tunica,MS,5
+deuel,SD,5
+Ste. Genevieve,MO,5
+SANILAC,MI,5
+027,LA,5
+San Diego County,CA,5
+Teton,MT,5
+047,SC,5
+013,NV,5
+029,AR,5
+West Taos,NM,5
+Rice,MN,5
+SULLY,SD,5
+Sargent,ND,5
+St. Croix,WI,5
+Sioux,NE,5
+grant,SD,5
+037,SC,5
+055,WA,5
+VERNON,MO,5
+SAN MIGUEL,CO,5
+Sac,IA,5
+yankton,SD,5
+209,MO,5
+NAVAJO,AZ,5
+25,OK,5
+HIGHLAND,OH,5
+7,MT,5
+23,SC,5
+GENTRY,MO,5
+Fond du Lac,WI,5
+Palo Alto,IA,5
+HOLT,MO,5
+71,VA,5
+McLean,ND,5
+CREEK,OK,5
+NEWAYGO,MI,5
+Andersen,KY,5
+NEW KENT,VA,5
+94,IL,5
+125,MS,5
+Mcpherson,SD,5
+KENT,MI,5
+KALKASKA                                          ,MI,5
+89,IL,5
+20,IL,5
+19,VA,5
+Carter,OK,5
+Johnson,TN,5
+Mower,MN,5
+Morton,KS,5
+Jefferson C,WA,5
+PIKE,MO,5
+CAMPBELL,SD,5
+GREENE,PA,5
+Edwards,KS,5
+Kitsap,WA,5
+Hardin,IL,5
+OSAGE,MO,5
+Lincoln C,WA,5
+77,VA,5
+LINCOLN,WA,5
+ALLEGAN                                           ,MI,5
+MASON,MI,5
+79,OH,5
+107,KS,5
+MELLETTE,SD,5
+001,ID,5
+MANISTEE,MI,5
+Cheatham,TN,5
+MADISON,TN,5
+LUCAS,OH,5
+Lyon,IA,5
+31,NE,5
+Lucas,OH,5
+Gwinnett South      ,GA,5
+Billings,ND,5
+81,CO,5
+HAMLIN,SD,5
+Le Sueur,MN,5
+45,WI,5
+41,WY,5
+CHRISTIAN,MO,5
+Lee,AR,5
+Holt,MO,4
+JOHNSON,MO,4
+Jackson,IN,4
+7,NM,4
+bon homme,SD,4
+JEFF,OH,4
+Clay,TN,4
+003,CO,4
+Walsh,ND,4
+073,ND,4
+BEDFORD,TN,4
+073,MT,4
+ISLE OF WIGHT,VA,4
+155,VA,4
+CHOCTAW,OK,4
+14,WI,4
+CHIPPEWA                                          ,MI,4
+Franklin,IA,4
+Nodaway,MO,4
+001,VT,4
+035,WA,4
+Nicholas,KY,4
+001,SC,4
+145,MS,4
+Hughes,OK,4
+Asotin C,WA,4
+CHESTERFIELD,VA,4
+Ingham,MI,4
+Forest,PA,4
+CHEROKEE,OK,4
+SAGUACHE,CO,4
+CLARK,SD,4
+Issaquena,MS,4
+039,AL,4
+71,MI,4
+023,VA,4
+67,WI,4
+CAMPBELL,WY,4
+Bradford,PA,4
+DAVIDSON,TN,4
+Steele,ND,4
+DESHA,AR,4
+DESOTO,MS,4
+MONTMORENCY                                       ,MI,4
+007,NM,4
+DEUEL,SD,4
+MONR,OH,4
+St. Landry,LA,4
+MINGO,WV,4
+Whitman,WA,4
+MERCER,WV,4
+MERCER,MO,4
+059,SC,4
+Waukesha,WI,4
+Dunn,ND,4
+3,NH,4
+Lac qui Parl,MN,4
+Sharkey,MS,4
+009,VA,4
+011,NV,4
+Delware,IA,4
+Kidder,ND,4
+Marshall,OK,4
+Stoddard,MO,4
+13,MI,4
+SHELBY,MO,4
+Monroe,IN,4
+63,MS,4
+CALCASIEU,LA,4
+Jersey,IL,4
+SPINK,SD,4
+193,KY,4
+Burke,ND,4
+20,WI,4
+Cooper,MO,4
+KING,WA,4
+Saginaw,MI,4
+Bryan,OK,4
+Mckenze,ND,4
+KING WILLIAM,VA,4
+55,CO,4
+McPhearson,SD,4
+54,WI,4
+Kenton,KY,4
+21,NM,4
+045,VA,4
+221,GA,4
+brule,SD,4
+BATES,MO,4
+39,TN,4
+HIGHLANDS,FL,4
+087,AR,4
+carroll,NH,4
+87,AR,4
+Towner,ND,4
+Osborne,KS,4
+Phillips,AR,4
+097,NY,4
+Renville,MN,4
+Trempealeau,WI,4
+023,ID,4
+Trimble,KY,4
+PACIFIC,WA,4
+franklin,IL,4
+Pembina,ND,4
+GOGEBIC,MI,4
+85,GA,4
+CROSS,AR,4
+087,SC,4
+093,MS,4
+RILEY,KS,4
+WAYNE,UT,4
+WAYNE,WV,4
+029,NJ,4
+PIKE,KY,4
+PRINCE EDWARD,VA,4
+091,CO,4
+PRESQUE ISLE                                      ,MI,4
+PIUTE,UT,4
+jersey,IL,4
+Hamilton,KS,4
+WALTON,FL,4
+111,CO,4
+POINSETT,AR,4
+GALL,OH,4
+13,IN,4
+Okfuskee,OK,4
+43,CO,3
+ATHE,OH,3
+Page,IA,3
+McIntosh ,OK,3
+SUSSEX,VA,3
+44,IL,3
+marshall,SD,3
+McClain,OK,3
+meade,SD,3
+WASHINGTON,VA,3
+Mason,KY,3
+Carroll,KY,3
+Martin,MN,3
+Martin,IN,3
+115,MS,3
+45,MS,3
+53,MI,3
+45,OR,3
+De Kalb,MO,3
+Cameron,PA,3
+McLeod,MN,3
+005,OK,3
+RALLS,MO,3
+Mcintosh,ND,3
+POLK,FL,3
+Judith Basin,MT,3
+Bureau,IL,3
+ROUTT,CO,3
+043,WY,3
+Cambell,SD,3
+Buffalo,SD,3
+POTTER,SD,3
+21,AL,3
+Lewis,NY,3
+Sibley,MN,3
+083,WV,3
+Lenawee,MI,3
+Shiawassee,MI,3
+Liberty,MT,3
+ATOKA,OK,3
+Mclean,IL,3
+walworth,SD,3
+BOTETOURT,VA,3
+52,IL,3
+Spencer,KY,3
+009,NH,3
+St Landry,LA,3
+LEFLORE,MS,3
+Divide,ND,3
+ESSEX,VA,3
+Gwinnett North      ,GA,3
+MEIG,OH,3
+Beauregard Parish,LA,3
+013,IN,3
+3,CO,3
+Bottineau,ND,3
+ASHLAND,OH,3
+061,KS,3
+Boone,MO,3
+LINCOLN,WV,3
+pike,IL,3
+Seminole,OK,3
+MARSHALL,SD,3
+Bartholomew,IN,3
+Greenwood County,KS,3
+LUCE                                              ,MI,3
+059,IL,3
+Wheatland,MT,3
+pennington,SD,3
+015,KS,3
+LAS ANIMAS,CO,3
+Boyle,KY,3
+101,WV,3
+Knox,IL,3
+Pendleton,KY,3
+Stark,OH,3
+Bolivar,MS,3
+Eddy,ND,3
+LANCASTER,VA,3
+Wilkin,MN,3
+ADAMS,ID,3
+Perry County,MS,3
+007,NH,3
+Lac qui Parle,MN,3
+Genesee,NY,3
+Jones & Linn,IA,3
+LEA,NM,3
+DICKENSON,VA,3
+047,UT,3
+Vanburean,IA,3
+Washington,WI,3
+Dawes,NE,3
+131,AR,3
+087,NC,3
+Yellow Medicine,MN,3
+149,KS,3
+077,ND,3
+Haskell,KS,3
+Traill,ND,3
+NORTHUMBERLAND,VA,3
+Iowa/Poweshiek,IA,3
+019,VA,3
+Andrew,MO,3
+Renville,ND,3
+Fond Du Lac,WI,3
+NIOBRARA,WY,3
+037,WY,3
+Clark,KY,3
+031,SD,3
+SAN JUAN,WA,3
+89,FL,3
+Wallace,KS,3
+39,SC,3
+PATRICK,VA,3
+Rawlins,KS,3
+9,NH,3
+Mountrail,ND,3
+Tulsa,OK,3
+charles mix,SD,3
+85,WI,3
+71,CO,3
+Richland,OH,3
+Oklahoma,OK,3
+Olge,IL,3
+OSCEOLA                                           ,MI,3
+OSAGE,OK,3
+WYOMING,WV,3
+127,IL,3
+083,OK,3
+Richmond County,NC,3
+Armstrong,PA,3
+Rock,MN,3
+CLARK,NV,3
+139,KS,3
+Cherry,NE,3
+033,NM,3
+OKALOOSA,FL,3
+OGEMAW                                            ,MI,3
+Athens,OH,3
+OCEANA                                            ,MI,3
+085,SD,3
+Nowata,OK,3
+Wahkiakum C,WA,3
+081,CO,3
+Henry,IL,3
+9,NV,3
+BOONE,WV,3
+62,WI,3
+017,MS,3
+121,KY,3
+Swift,MN,3
+GRAYSON,VA,3
+92,IL,3
+BELM,OH,3
+017,WA,3
+101,MS,3
+185,VA,3
+019,AL,3
+harding county,SD,3
+69,WA,3
+Ramsey,ND,3
+SIERRA,CA,3
+19,MS,3
+93,IN,3
+Jefferson,OK,3
+Fall river,SD,3
+BENNETT,SD,3
+Wayne,PA,2
+Tensas,LA,2
+KANAWHA,WV,2
+WOOD,WV,2
+KING GEORGE,VA,2
+Humboldt County,CA,2
+Gray,KS,2
+BON HOMME,SD,2
+Green,WI,2
+ALLEGHANY,VA,2
+LOGAN,WV,2
+033,ND,2
+57,NC,2
+Gosper,NE,2
+93,WV,2
+Emmons,ND,2
+ANTRIM                                            ,MI,2
+Beckham,OK,2
+WESTON,WY,2
+TAYLOR,FL,2
+021,VT,2
+Hocking,OH,2
+Hillsboroughugh,NH,2
+Jones County,SD,2
+011,KY,2
+60,IL,2
+Grand Isle,VT,2
+Leavenworth County,KS,2
+78,IL,2
+FLOYD,VA,2
+Dewey,OK,2
+Hill,MT,2
+FLOYD,KY,2
+Lac Qui Parle,MN,2
+61,NM,2
+Larimer County,CO,2
+45,NM,2
+Grady,OK,2
+023,SC,2
+Jessamine,KY,2
+Howard,MO,2
+Gove,KS,2
+Lake,TN,2
+Anderson,KY,2
+Lake,SD,2
+VERNON,LA,2
+73,MS,2
+021,AL,2
+BEAUREGARD,LA,2
+LAPEER,MI,2
+WASHINGTON,PA,2
+GILES,VA,2
+BARRY                                             ,MI,2
+Washington,OK,2
+Steele,MN,2
+ACCOMACK,VA,2
+Washington,OH,2
+WASHINGTON,RI,2
+El Paso County,CO,2
+BROWARD,FL,2
+039,MS,2
+WESTMORELAND,VA,2
+LINCOLN,OK,2
+039,SC,2
+015,MT,2
+019,MS,2
+Harding ,NM,2
+HODGEMAN,KS,2
+Harrison,KY,2
+Washington,KY,2
+TUSC,OH,2
+JOHNSON,WY,2
+BEDFORD,VA,2
+Kern County,CA,2
+Kewaunee,WI,2
+Kent,DE,2
+East Carroll,LA,2
+Walla Walla C,WA,2
+69,VA,2
+Tazewll,IL,2
+Allen County,KS,2
+WALWORTH,SD,2
+LINCLON,SD,2
+GUER,OH,2
+Adair/Guthrie,IA,2
+025,WV,2
+LEVY,FL,2
+Gallatin,IL,2
+89,AR,2
+BOSSIER,LA,2
+Suffolk,MA,2
+HANOVER,VA,2
+St. Joseph,MI,2
+Iroquois,IL,2
+BRANCH,MI,2
+Island C,WA,2
+LEAVENWORTH,KS,2
+WAYNE,MI,2
+Trego,KS,2
+LAWRENCE,SD,2
+WAYNE,KY,2
+BELL,KY,2
+EVANGELINE,LA,2
+Jones ,IA,2
+Johnston,OK,2
+Calhoun,MI,2
+Boone,KY,2
+Moniteau,MO,2
+Woodburry,IA,2
+kingsbury,SD,2
+191,VA,2
+SOUTHAMPTON,VA,2
+PRINCE GEORGE,VA,2
+Woods,OK,2
+Woodward,OK,2
+Woodward County,OK,2
+POTTAWATOME,OK,2
+071,OR,2
+PLATTE,WY,2
+091,TN,2
+089,NC,2
+harding,SD,2
+PERR,OH,2
+PENDLETON,WV,2
+Cole,MO,2
+PEMISCOT,MO,2
+Mercer,IL,2
+STAR,OH,2
+STARK,OH,2
+PULASKI,VA,2
+Manitowoc,WI,2
+Payne,OK,2
+Pawnee,OK,2
+Wilson County,KS,2
+Saint Francois,MO,2
+Mc Intosh ,OK,2
+Crittenden,AR,2
+McDOWELL,WV,2
+SURRY,VA,2
+Crawford,IN,2
+McPherson,KS,2
+Mchenry,ND,2
+SULLIVAN,MO,2
+PUTNAM,FL,2
+Cottonwood,MN,2
+005,NJ,2
+Meade County,SD,2
+Cleveland,OK,2
+Montour,PA,2
+Custer,OK,2
+CITRUS,FL,2
+Russell County,KS,2
+Osage County,OK,2
+New Madrid,MO,2
+Newport News City,VA,2
+143,AR,2
+Yellowstone County,MT,2
+Roosevelt,MT,2
+14,IL,2
+CLARK,KS,2
+CARTER,OK,2
+127,FL,2
+087,AL,2
+campbell,SD,2
+Orange,IN,2
+Roberts County ,SD,2
+aurora,SD,2
+CLINTON,MI,2
+belknap,NH,2
+Yavapai County,AZ,2
+Rutland ,VT,2
+S. Croix,WI,2
+Clarion,PA,2
+167,VA,2
+grafton,NH,2
+"Morris County, KS",KS,2
+SCOTLAND,MO,2
+Murray,MN,2
+Murray,OK,2
+SANTA ROSA,FL,2
+COLUMBIA,WA,2
+Mussellshell,MT,2
+Clarke,IA,2
+CHEBOYGAN                                         ,MI,2
+077,AR,2
+153,OK,2
+Yankton ,SD,2
+077,ID,2
+NOBLE,OK,2
+Yanton,SD,2
+Major,OK,2
+Cotton,OK,2
+DINWIDDIE,VA,2
+Logan,OK,2
+DEWEY,SD,2
+Shelby,TN,2
+Bourbon County,KS,2
+Pierce,WI,2
+Shelby,MO,2
+MISSAUKEE                                         ,MI,2
+33,WI,2
+Lincoln,OK,2
+059,TN,2
+Dawes County,NE,2
+Linn County,KS,2
+DOUGLAS,NV,2
+Logan,KS,2
+103,MI,2
+009,NV,2
+MONTCALM,MI,2
+009,ID,2
+Seqouyah,OK,2
+Pike,IN,2
+MCPERSON,SD,2
+099,SD,2
+109,AR,2
+3,VT,2
+MAYES,OK,2
+Scotland County,NC,2
+Sedgwick,CO,2
+MASON,WV,2
+3,OR,2
+059,MS,2
+MARION,MO,2
+Bighorn,MT,2
+rockingham,NH,2
+Decatur,IA,2
+1,VT,2
+065,KY,2
+065,AL,2
+DELAWARE,PA,2
+35,WA,2
+Penntington,SD,2
+MUSK,OH,2
+turner,SD,2
+ward,ND,2
+Petersburg City,VA,2
+063,SD,2
+Sheridan,ND,2
+111,KS,2
+Phillips,KS,2
+MONTGOMERY,VA,2
+007,AR,2
+corson,SD,1
+WISE,TX,1
+CURRY,NM,1
+GILA,AZ,1
+stanley,SD,1
+washington,LA,1
+Grafotn,NH,1
+COMANCHE,OK,1
+dickey,ND,1
+COLFAX,NM,1
+divide,ND,1
+burliegh,ND,1
+douglas,SD,1
+sanborn ,SD,1
+union,SD,1
+WALLOWA ,OR,1
+catahoula,LA,1
+GEM,ID,1
+WAGONER,OK,1
+021,KS,1
+WORCESTER,MA,1
+CONVERSE,WY,1
+sullivan,NH,1
+cavalier,ND,1
+Androscroggin,ME,1
+coos,NH,1
+"Gove County, KS",KS,1
+023,NM,1
+Cameron Parish,LA,1
+GARFIELD,WA,1
+clark,SD,1
+COLLIER,FL,1
+codington,SD,1
+CROWLEY,KS,1
+GRANT,SD,1
+roberts,SD,1
+escambia,AL,1
+Goklen Valley,ND,1
+lATIMER,OK,1
+Adams,NE,1
+lake,IL,1
+lawrence,SD,1
+Gallia County,OH,1
+Gilliam ,OR,1
+buffalo,SD,1
+Garden,NE,1
+lee,IL,1
+WASHTENAW,MI,1
+Alfalfa,OK,1
+CROOK,WY,1
+melllete,SD,1
+Gibson,IN,1
+merceer,ND,1
+pennignton,SD,1
+"Geary County, KS",KS,1
+Geary County,KS,1
+merrimack,NH,1
+WASHINGTON,MS,1
+Garfield C,WA,1
+Garvin County,OK,1
+montgomery,IA,1
+Allegheny,PA,1
+jones,SD,1
+pennington ,SD,1
+Carson,NV,1
+haakon,SD,1
+fall river,SD,1
+quadalupe,NM,1
+GOGEBIC                                           ,MI,1
+pittsburg,OK,1
+pike,KY,1
+GRANT,LA,1
+grant,ND,1
+Canadian,OK,1
+WEXFORD                                           ,MI,1
+GRANT,WV,1
+Cass,IL,1
+"WESTON, PENNINGTON",WY,1
+jeauld,SD,1
+pierce,ND,1
+hand,SD,1
+GRATIOT,MI,1
+021,NM,1
+hillsborough,NH,1
+GREENSVILLE,VA,1
+COWLEY,KS,1
+WARREN,MO,1
+Adair ,OK,1
+GRUNDY,IL,1
+perkins,SD,1
+burleigh,ND,1
+Benton County,WA,1
+Freeborn,MN,1
+Boyd,NE,1
+007,UT,1
+DESOTO,FL,1
+Wilkes County,NC,1
+BUTLER ,KS,1
+BUTLER,KS,1
+BUFFALO,SD,1
+Washington,PA,1
+Edmunds ,SD,1
+DELAWARE,OK,1
+"Bourbon, KS",KS,1
+DEAN,WI,1
+Washington,NE,1
+El Paso ,CO,1
+Elbert County,CO,1
+Cortland,NY,1
+BpnHomme,SD,1
+Currituck County,NC,1
+Branch,MI,1
+Bremer/Blackhawk,IA,1
+BREWSTER,TX,1
+Crook County,WY,1
+Ellis,OK,1
+BRAZORIA,TX,1
+"Cowley County, KS",KS,1
+Cowley ,KS,1
+Brunswick County,NC,1
+Emmett,IA,1
+Winnebago ,WI,1
+Wichita,KS,1
+EUREKA,NV,1
+DOLORES,CO,1
+EMMONS,ND,1
+Wells,ND,1
+Berkshire,MA,1
+Denver,CO,1
+Berrien,MI,1
+DeSoto,LA,1
+"Bent County, CO",CO,1
+Dickenson,KS,1
+Dickinson ,KS,1
+Western Taney,MO,1
+Big Horn County,MT,1
+Daniels-Rosevelt,MT,1
+Dallas & Camden,MO,1
+Beaver,PA,1
+Door,WI,1
+Beadle ,SD,1
+Douglas,CA,1
+BonHomme,SD,1
+Douglas C,WA,1
+Grahman,AZ,1
+Dunn ,ND,1
+EDDY,NM,1
+Barber County,KS,1
+009,MA,1
+EL PASO COUNTY,CO,1
+Barber,OK,1
+009,FL,1
+EMMET                                             ,MI,1
+Costilla,CO,1
+Buena Vista City,VA,1
+COAL,OK,1
+BARBOUR,WV,1
+Clay ,KS,1
+Clay ,IA,1
+YORK,VA,1
+Fayette,KY,1
+BECKHAM,OK,1
+Clay,AR,1
+Weld County,CO,1
+CHARLEVOIX                                        ,MI,1
+Clarke,KS,1
+Walla-Walla/Columbia,WA,1
+"Clark County, KS",KS,1
+003,AL,1
+Clark,IA,1
+Claiborn,TN,1
+BOLLINGER,MO,1
+BARBER,KS,1
+BARAGA                                            ,MI,1
+CHEYENNE ,CO,1
+Atoka County,OK,1
+Atoka ,OK,1
+"Cheyenne County, KS",KS,1
+Chesire,NH,1
+Ashland,OH,1
+Ascension,LA,1
+ZIEBACH,SD,1
+WYTHE,VA,1
+001,MS,1
+blount,TN,1
+Clear Creek & Gilpin,CO,1
+Walworth,WI,1
+Faribault,MN,1
+CARSON CITY,NV,1
+BLAINE,NE,1
+Burlington County,NJ,1
+Concordia,LA,1
+Butler County,KS,1
+FOUND DU LAC,WI,1
+Columbia C,WA,1
+Warren ,IA,1
+CADDO,LA,1
+Worchester,MA,1
+CADDO,OK,1
+CALHOUN,MI,1
+FRANKLIN,FL,1
+BERKELEY,WV,1
+BENZIE                                            ,MI,1
+FULT,OH,1
+Colonial Heights City,VA,1
+CAMBELL,TN,1
+CAMDEN,GA,1
+Fairfax,VA,1
+Fairfield,OH,1
+Colfax ,NM,1
+Fall River co,SD,1
+CAPE GIRARDEAU,MO,1
+CARR,OH,1
+Coal County,OK,1
+Clinton,MI,1
+YANKTON,SD,1
+Clarke County,KS,1
+10 SE Dst. Counties,KY,1
+Vernon Parish,LA,1
+MCDOWELL,WV,1
+17,MO,1
+17,MT,1
+17,WA,1
+SHARKEY,MS,1
+17,WY,1
+Monterey County,CA,1
+Monroe,MI,1
+SHIAWASSEE,MI,1
+SHelby,IA,1
+SIERRA,NM,1
+18,OK,1
+SIOUX,ND,1
+SIOUX,NE,1
+071,CO,1
+181,IA,1
+Moffat County,CO,1
+189,NC,1
+19,AL,1
+069,WA,1
+Milwaukee,WI,1
+069,VA,1
+ST CALIR,MO,1
+197,KS,1
+17,ME,1
+SEQUOYAH,OK,1
+071,OH,1
+N.  WORCHESTER,MA,1
+Natchitoches Parish,LA,1
+15,WI,1
+NORFOLK,MA,1
+SACRAMENTO/AMADOR,CA,1
+NOBL,OH,1
+SAN BERNADINO,CA,1
+NEZ PERCE,ID,1
+NEWTON,TX,1
+155,KS,1
+N. Avoyelles,LA,1
+Musselshell County,MT,1
+SEDGWICK,CO,1
+075,ID,1
+Muskogee ,OK,1
+161,KS,1
+073,OK,1
+Multnomah County,OR,1
+161,VA,1
+Morris County,TX,1
+Morgan,OH,1
+071,VA,1
+Montrail,ND,1
+Miami-Dade County,FL,1
+199,IL,1
+207,KY,1
+061,NM,1
+065,GA,1
+27,WY,1
+MUSKOGEE,OK,1
+MUSKEGON                                          ,MI,1
+MURRAY,OK,1
+MORTON,ND,1
+063,MS,1
+063,AR,1
+MORGAN,WV,1
+MONTGOMERY,KS,1
+MONROE                                            ,MI,1
+065,ID,1
+061,MS,1
+MONROE,MO,1
+Santa Barbara County,CA,1
+MONROE,MI,1
+Santa Clara (See 44),CA,1
+MONO,CA,1
+MIDDLESEX,VA,1
+MIAMI DADE,FL,1
+MERCER,ND,1
+MEADE,KS,1
+27,VT,1
+Madera County,CA,1
+STANELY,SD,1
+McPherson County,KS,1
+Melllette,SD,1
+STEPHENS,OK,1
+"Meade, KS",KS,1
+STILLWATER,MT,1
+Mclean,ND,1
+Mclean,KY,1
+Mckenzie,ND,1
+STory,IA,1
+069,ID,1
+SUFFOLK,VA,1
+SUMMERS,WV,1
+Calhoun,IL,1
+McLean/Burleigh,ND,1
+McCURTAIN,OK,1
+Mashall,SD,1
+Marshall,IL,1
+Sainte Genevieve,MO,1
+067,CA,1
+23,WV,1
+Marin,CA,1
+245,TX,1
+25,VT,1
+15,MT,1
+15,AZ,1
+Nine County Area,KY,1
+ROANE,WV,1
+115,KS,1
+115,MO,1
+RED RIVER,TX,1
+RENO,KS,1
+117,MI,1
+117,OK,1
+Palm Beach County,FL,1
+RIO ARRIBA,NM,1
+PUSHMATAHA,OK,1
+"RIVERSIDE, SAN BRDNO",CA,1
+ROBERTS,SD,1
+111,MT,1
+119,OK,1
+ROCKBRIDGE,VA,1
+ROOSEVELT,NM,1
+POTTAWATTOMIE,OK,1
+POTTAWATTAME,OK,1
+POTTAWATOMI,KS,1
+POCAHONTAS,WV,1
+PHILLIPS,AR,1
+PERRY,KY,1
+121,PA,1
+095,OK,1
+Penninton,SD,1
+089,CO,1
+Platte County,WY,1
+Pottawatomie County,OK,1
+Pottawatomie,OK,1
+Potawatomie County,KS,1
+"Potawatomi Co, KS",KS,1
+"Potawatomi Cnty, KS",KS,1
+Potawatomi,KS,1
+101,NY,1
+Pontotoc,OK,1
+Pondera,MT,1
+105,KS,1
+Platte,MO,1
+Pepin,WI,1
+Pittsburg County,OK,1
+Pipestone,MN,1
+Pueblo County,CO,1
+1,AR,1
+Pinal County,AZ,1
+Pikle,IN,1
+099,NY,1
+11,CO,1
+11,GA,1
+QUAY,NM,1
+089,FL,1
+PEMBINA,ND,1
+Noble,OK,1
+ONTONAGON,MI,1
+Riverside ,CA,1
+Riverside County,CA,1
+OTTAWA,OK,1
+OTTAWA,KS,1
+OSCODA                                            ,MI,1
+Roberts County,SD,1
+Robertson,KY,1
+ORANGE,FL,1
+Robeson County,NC,1
+133,KY,1
+083,GA,1
+085,FL,1
+OKFUSKEE,OK,1
+OKEECHOBEE,FL,1
+081,SC,1
+OAKLAND,MI,1
+O'Brien ,IA,1
+Rogers,OK,1
+Rosa,FL,1
+141,NC,1
+079,MT,1
+Rossevelt,NM,1
+131,FL,1
+Riley ,KS,1
+"Rav.,Miss. & Granite",MT,1
+Renvillee,ND,1
+PAYNE,OK,1
+"Ravalli, Lemhi, Beav",ID,1
+PARK,CO,1
+Red Lake,MN,1
+Ozaukee,WI,1
+Owyhee,NV,1
+Owatta,OK,1
+Outagamie,WI,1
+Reno ,KS,1
+Otero County,NM,1
+125,CO,1
+Richmond City,VA,1
+125,FL,1
+Reynolds/Carter,MO,1
+125,KS,1
+Rice County,KS,1
+125,OK,1
+Orange County,CA,1
+Orange / Riverside,CA,1
+Orange ,CA,1
+085,WI,1
+085,GA,1
+MEAD,SD,1
+MC DONALD,MO,1
+Ventura County,CA,1
+MATHEWS,VA,1
+Huerfano County,CO,1
+Texas,OK,1
+Howard/Mitchell,IA,1
+Thomas,NE,1
+77,WV,1
+Hillsdale,MI,1
+Hickory/Benton,MO,1
+83,MT,1
+033,MO,1
+85,ND,1
+Toole,MT,1
+87,MS,1
+"Haskell County, KS",KS,1
+Haskell County,OK,1
+Haskel,OK,1
+Hashell,OK,1
+Hartford/Litchfield,CT,1
+Treasure County,MT,1
+89,CO,1
+Harrison ,MS,1
+Trinity County,CA,1
+Harrison ,IA,1
+Harper County,OK,1
+Humboldt,IA,1
+Humboldt / Pershing,NV,1
+035,MT,1
+Tammany,LA,1
+TRIPP,SD,1
+TUNICA,MS,1
+JEFFERSON ,CO,1
+TUSCOLA,MI,1
+JEFFERSON,WV,1
+JEFFERSON,FL,1
+JEFFERSON,CO,1
+JAMES CITY,VA,1
+JACKSON,OR,1
+71,IL,1
+JACKSON,LA,1
+Humbolt,CA,1
+JACK,OH,1
+71,OR,1
+037,MT,1
+037,IN,1
+71,WI,1
+73,IL,1
+73,MT,1
+Idaho County,ID,1
+73,OK,1
+Terrebonne,LA,1
+Harper County,KS,1
+Harper,OK,1
+Harding County,SD,1
+025,VT,1
+HENRICO,VA,1
+HENDRY,FL,1
+ADAIR,OK,1
+027,MA,1
+HARR,OH,1
+HARDY,WV,1
+HARDEE,FL,1
+HAND,SD,1
+025,WY,1
+Utah County,UT,1
+VAN BUREN,MI,1
+ADAIR,MO,1
+Gwinnett South,GA,1
+ALGER                                             ,MI,1
+Greene & Dallas,IA,1
+APACHE ,AZ,1
+ARENAC                                            ,MI,1
+Van Burne,IA,1
+023,WV,1
+Grant County,WA,1
+ASOTIN,WA,1
+Ventura ,CA,1
+HENRY,OH,1
+HIDALGO,NM,1
+Harding ,SD,1
+HYDE,SD,1
+031,FL,1
+9,WI,1
+90,IL,1
+Hand ,SD,1
+Hancock County,MS,1
+91,VA,1
+Hampton City,VA,1
+"Hamilton County, KS",KS,1
+Hamilton,IL,1
+97,OH,1
+HUTCHIINSON,SD,1
+HIGHLAND,VA,1
+HURON,MI,1
+HUMBOLDT,NV,1
+027,WY,1
+99,CA,1
+HUGHES,OK,1
+HUERFANO/LAS ANIMAS,CO,1
+Unicoi County,TN,1
+027,VA,1
+HOLM,OH,1
+HOCK,OH,1
+7,AR,1
+TODD,SD,1
+041,OK,1
+LYON ,KS,1
+Le Flore County,OK,1
+Lawrence County,AL,1
+Slope,ND,1
+Lawrence,PA,1
+Lawler,IA,1
+051,VA,1
+"LaPlata, Montezuma",CO,1
+LaCrosse,WI,1
+La Moure,ND,1
+La Crosse,WI,1
+LUCA,OH,1
+Lee ,VA,1
+5,FL,1
+LOGAN,OK,1
+051,KS,1
+LIVINGSTON,MI,1
+LIVINGSTON,LA,1
+St Clair,MO,1
+5,NM,1
+"St, Tammany Parish",LA,1
+LINCOLN,NE,1
+LINCOLN,KS,1
+Leavonworth,KS,1
+39,IL,1
+LEWIS,KY,1
+"Lincoln (LC) County,",KS,1
+MARSHALL,OK,1
+3,MS,1
+MACKINAC                                          ,MI,1
+Love,OK,1
+Logan/Payne,OK,1
+Logan County,OK,1
+057,ID,1
+Lipscomb,OK,1
+Lincoln County,OK,1
+Lincoln County,KS,1
+Lincoln ,KS,1
+39,FL,1
+Lincoln,MN,1
+347,TX,1
+Lincoln,CO,1
+35,OH,1
+35,VA,1
+Sheridan,MT,1
+36,WI,1
+38,IL,1
+053,SD,1
+Shoshone County,ID,1
+LINCOLN,CO,1
+LETCHER,KY,1
+69,ID,1
+Jeruald,SD,1
+KIOWA,OK,1
+KINGSBURY,SD,1
+KEWEENAW                                          ,MI,1
+KERN ,CA,1
+KEMBER,MS,1
+KALAMAZOO                                         ,MI,1
+Juab County,UT,1
+Jones/Linn,IA,1
+043,OK,1
+61,MI,1
+65,AL,1
+55,OR,1
+Jefferson County,TX,1
+TANGIPAHOA,LA,1
+Jefferson County,OR,1
+041,WY,1
+Jefferson,TN,1
+TEHAMA ,CA,1
+65,WI,1
+TEXAS,OK,1
+Jefferson,IL,1
+68,WI,1
+KLAMATH,OR,1
+Kenosha,WI,1
+LEFLORE,OK,1
+LAKE,SD,1
+LEELANAU                                          ,MI,1
+LEELANAU,MI,1
+LATIMER,OK,1
+Stanely,SD,1
+LANDER,NV,1
+"Stanton County, KS",KS,1
+LAKE - SONOMA,CA,1
+LAKE                                              ,MI,1
+Staton,KS,1
+LAKE,TN,1
+LAKE,OH,1
+045,NM,1
+LAKE,IL,1
+LAKE,FL,1
+"LACLEDE, CAMDEN",MO,1
+LAC,CA,1
+LA PAZ,AZ,1
+51,OK,1
+51,WI,1
+Kitsap C,WA,1
+53,MS,1
+045,WV,1
+67,WV,1
